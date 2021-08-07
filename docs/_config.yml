@@ -22,7 +22,7 @@ title: Yokai PuniPuni - knowledge database
 email: zombiakov@wp.pl
 description: >- # this means to ignore newlines until "baseurl:"
   Everything you need to know about PuniPuni
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/kdb" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

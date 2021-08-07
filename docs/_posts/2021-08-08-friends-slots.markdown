@@ -2,7 +2,7 @@
 layout: post
 title:  "Friends slots"
 date:   2021-08-08 00:15:00 +0200
-categories: wiki
+categories: kdb
 ---
 One can get additional friends slots by completing following missions:
 

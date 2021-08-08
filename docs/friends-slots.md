@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Friends slots"
-date:   2021-08-08 00:15:00 +0200
-categories: misc
+permalink: /friends-slots/
 ---
 One can get additional friends slots by completing following missions:
 

@@ -1,0 +1,9071 @@
+[
+    {
+        "id": "1001",
+        "name": "Pandle",
+        "rank": "e"
+    },
+    {
+        "id": "1002",
+        "name": "Undy",
+        "rank": "c"
+    },
+    {
+        "id": "1003",
+        "name": "Tanbo",
+        "rank": "b"
+    },
+    {
+        "id": "1004",
+        "name": "Mochismo",
+        "rank": "d"
+    },
+    {
+        "id": "1005",
+        "name": "Minochi",
+        "rank": "d"
+    },
+    {
+        "id": "1006",
+        "name": "Blazion",
+        "rank": "c"
+    },
+    {
+        "id": "1007",
+        "name": "Quaken",
+        "rank": "b"
+    },
+    {
+        "id": "1008",
+        "name": "Siro",
+        "rank": "a"
+    },
+    {
+        "id": "1009",
+        "name": "Beetler",
+        "rank": "b"
+    },
+    {
+        "id": "1010",
+        "name": "Beetall",
+        "rank": "s"
+    },
+    {
+        "id": "1011",
+        "name": "Cruncha",
+        "rank": "s"
+    },
+    {
+        "id": "1012",
+        "name": "Zerberker",
+        "rank": "s"
+    },
+    {
+        "id": "1013",
+        "name": "Snartle",
+        "rank": "s"
+    },
+    {
+        "id": "1014",
+        "name": "Shogunyan",
+        "rank": "s"
+    },
+    {
+        "id": "1015",
+        "name": "Lie-in",
+        "rank": "e"
+    },
+    {
+        "id": "1016",
+        "name": "Slicenrice",
+        "rank": "d"
+    },
+    {
+        "id": "1017",
+        "name": "Tublappa",
+        "rank": "d"
+    },
+    {
+        "id": "1018",
+        "name": "Sgt. Burly",
+        "rank": "c"
+    },
+    {
+        "id": "1019",
+        "name": "Lie-in Heart",
+        "rank": "a"
+    },
+    {
+        "id": "1020",
+        "name": "Momonyan",
+        "rank": "a"
+    },
+    {
+        "id": "1021",
+        "name": "Hovernyan",
+        "rank": "b"
+    },
+    {
+        "id": "1022",
+        "name": "Machonyan",
+        "rank": "a"
+    },
+    {
+        "id": "1023",
+        "name": "Illuminoct",
+        "rank": "s"
+    },
+    {
+        "id": "1024",
+        "name": "Moximous N",
+        "rank": "b"
+    },
+    {
+        "id": "1025",
+        "name": "Camellia",
+        "rank": "s"
+    },
+    {
+        "id": "1026",
+        "name": "Mudmunch",
+        "rank": "c"
+    },
+    {
+        "id": "1027",
+        "name": "Demuncher",
+        "rank": "s"
+    },
+    {
+        "id": "1028",
+        "name": "Devourer",
+        "rank": "s"
+    },
+    {
+        "id": "1029",
+        "name": "Hovernyan Cao Cao",
+        "rank": "s"
+    },
+    {
+        "id": "1030",
+        "name": "Garaakinbou Kin Sen",
+        "rank": "c"
+    },
+    {
+        "id": "1031",
+        "name": "Sakigakenosuke Kin Sen",
+        "rank": "b"
+    },
+    {
+        "id": "1032",
+        "name": "Shogun King",
+        "rank": "ss"
+    },
+    {
+        "id": "1033",
+        "name": "Blazion Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "1034",
+        "name": "Sir Nyansalot",
+        "rank": "a"
+    },
+    {
+        "id": "1035",
+        "name": "BBQvil",
+        "rank": "c"
+    },
+    {
+        "id": "1036",
+        "name": "Lappinitup",
+        "rank": "a"
+    },
+    {
+        "id": "1037",
+        "name": "Hot Air Buffoon",
+        "rank": "b"
+    },
+    {
+        "id": "1038",
+        "name": "Asura",
+        "rank": "ss"
+    },
+    {
+        "id": "1039",
+        "name": "Shurikenny",
+        "rank": "s"
+    },
+    {
+        "id": "1040",
+        "name": "El Gutso Grande",
+        "rank": "a"
+    },
+    {
+        "id": "1041",
+        "name": "The Last Nyanmurai",
+        "rank": "ss"
+    },
+    {
+        "id": "1042",
+        "name": "Sheen",
+        "rank": "a"
+    },
+    {
+        "id": "1043",
+        "name": "Minimoto",
+        "rank": "d"
+    },
+    {
+        "id": "1044",
+        "name": "Snee",
+        "rank": "a"
+    },
+    {
+        "id": "1045",
+        "name": "Ushio Autsuki",
+        "rank": "a"
+    },
+    {
+        "id": "1046",
+        "name": "Ushio Autsuki S",
+        "rank": "s"
+    },
+    {
+        "id": "1047",
+        "name": "Ranma Saotome",
+        "rank": "b"
+    },
+    {
+        "id": "1048",
+        "name": "Ranma Saotome S",
+        "rank": "s"
+    },
+    {
+        "id": "1049",
+        "name": "Inuyasha",
+        "rank": "b"
+    },
+    {
+        "id": "1050",
+        "name": "Inuyasha S",
+        "rank": "s"
+    },
+    {
+        "id": "1051",
+        "name": "Reuknight",
+        "rank": "a"
+    },
+    {
+        "id": "1052",
+        "name": "Hissfit",
+        "rank": "e"
+    },
+    {
+        "id": "1053",
+        "name": "Flamurice",
+        "rank": "a"
+    },
+    {
+        "id": "1054",
+        "name": "Arachnevil",
+        "rank": "s"
+    },
+    {
+        "id": "1055",
+        "name": "Columbakat",
+        "rank": "ss"
+    },
+    {
+        "id": "1056",
+        "name": "Acenyan",
+        "rank": "a"
+    },
+    {
+        "id": "1057",
+        "name": "Hovernyan S",
+        "rank": "s"
+    },
+    {
+        "id": "1058",
+        "name": "Righteous Zazel",
+        "rank": "ss"
+    },
+    {
+        "id": "1059",
+        "name": "Bishamonten",
+        "rank": "ss"
+    },
+    {
+        "id": "1060",
+        "name": "Gleam",
+        "rank": "s"
+    },
+    {
+        "id": "1061",
+        "name": "Nunchucky",
+        "rank": "s"
+    },
+    {
+        "id": "1062",
+        "name": "Fancy-nyan",
+        "rank": "ss"
+    },
+    {
+        "id": "1063",
+        "name": "Corptain",
+        "rank": "s"
+    },
+    {
+        "id": "1064",
+        "name": "Bison Burly",
+        "rank": "s"
+    },
+    {
+        "id": "1065",
+        "name": "Benkei",
+        "rank": "c"
+    },
+    {
+        "id": "1066",
+        "name": "El Gutso",
+        "rank": "d"
+    },
+    {
+        "id": "1067",
+        "name": "Washogun",
+        "rank": "b"
+    },
+    {
+        "id": "1068",
+        "name": "Bushinyan Ryu Ho",
+        "rank": "ss"
+    },
+    {
+        "id": "1069",
+        "name": "Sushiyama",
+        "rank": "b"
+    },
+    {
+        "id": "1070",
+        "name": "Brutle",
+        "rank": "s"
+    },
+    {
+        "id": "1071",
+        "name": "Rampajah",
+        "rank": "s"
+    },
+    {
+        "id": "1072",
+        "name": "Samureel",
+        "rank": "d"
+    },
+    {
+        "id": "1073",
+        "name": "Time Keeler",
+        "rank": "b"
+    },
+    {
+        "id": "1074",
+        "name": "Slumberhog",
+        "rank": "d"
+    },
+    {
+        "id": "1075",
+        "name": "Snortlehog",
+        "rank": "b"
+    },
+    {
+        "id": "1076",
+        "name": "Yellskitchen",
+        "rank": "ss"
+    },
+    {
+        "id": "1077",
+        "name": "Moolinda",
+        "rank": "s"
+    },
+    {
+        "id": "1078",
+        "name": "Neighthan",
+        "rank": "s"
+    },
+    {
+        "id": "1079",
+        "name": "The Hinix",
+        "rank": "ss"
+    },
+    {
+        "id": "1080",
+        "name": "Slugger",
+        "rank": "b"
+    },
+    {
+        "id": "1081",
+        "name": "Tyson Granger",
+        "rank": "s"
+    },
+    {
+        "id": "1082",
+        "name": "Kakusei Takao Kinomiya",
+        "rank": "ss"
+    },
+    {
+        "id": "1083",
+        "name": "Axel Blaze",
+        "rank": "a"
+    },
+    {
+        "id": "1084",
+        "name": "Torch",
+        "rank": "a"
+    },
+    {
+        "id": "1085",
+        "name": "Ali Baba",
+        "rank": "s"
+    },
+    {
+        "id": "1086",
+        "name": "Kizutsuita Ali Baba",
+        "rank": "s"
+    },
+    {
+        "id": "1087",
+        "name": "Dandory",
+        "rank": "ss"
+    },
+    {
+        "id": "1088",
+        "name": "El Dorago",
+        "rank": "ss"
+    },
+    {
+        "id": "1089",
+        "name": "Flippit",
+        "rank": "e"
+    },
+    {
+        "id": "1090",
+        "name": "Punifuyu",
+        "rank": "a"
+    },
+    {
+        "id": "1091",
+        "name": "Kitaro",
+        "rank": "s"
+    },
+    {
+        "id": "1092",
+        "name": "Kakusei Kitaro",
+        "rank": "ss"
+    },
+    {
+        "id": "1093",
+        "name": "Saranaru Kakusei Kitaro",
+        "rank": "sss"
+    },
+    {
+        "id": "1094",
+        "name": "Kapunki",
+        "rank": "a"
+    },
+    {
+        "id": "1095",
+        "name": "Shourinjii",
+        "rank": "s"
+    },
+    {
+        "id": "1096",
+        "name": "Crystal Shogunyan",
+        "rank": "sss"
+    },
+    {
+        "id": "1097",
+        "name": "Kakusei Fuyunyan",
+        "rank": "ss"
+    },
+    {
+        "id": "1098",
+        "name": "Dragon Knight Velout\u00e9",
+        "rank": "sss"
+    },
+    {
+        "id": "1099",
+        "name": "Velout\u00e9",
+        "rank": "s"
+    },
+    {
+        "id": "1100",
+        "name": "The Lastest Nyanmurai",
+        "rank": "ss"
+    },
+    {
+        "id": "1101",
+        "name": "Helmsman",
+        "rank": "d"
+    },
+    {
+        "id": "1102",
+        "name": "Goku Bushinyan",
+        "rank": "sss"
+    },
+    {
+        "id": "1103",
+        "name": "Slacka-slash",
+        "rank": "b"
+    },
+    {
+        "id": "1104",
+        "name": "Cutta-nah",
+        "rank": "e"
+    },
+    {
+        "id": "1105",
+        "name": "Zundoumaru",
+        "rank": "c"
+    },
+    {
+        "id": "1106",
+        "name": "Acker Reese",
+        "rank": "a"
+    },
+    {
+        "id": "1107",
+        "name": "Kakusei Mizukamiya",
+        "rank": "ss"
+    },
+    {
+        "id": "1108",
+        "name": "Kakusei Gouenji",
+        "rank": "ss"
+    },
+    {
+        "id": "1109",
+        "name": "AkiraMEN",
+        "rank": "b"
+    },
+    {
+        "id": "1110",
+        "name": "Supernyan",
+        "rank": "s"
+    },
+    {
+        "id": "1111",
+        "name": "Goemon",
+        "rank": "ss"
+    },
+    {
+        "id": "1112",
+        "name": "Honmaguro-taishou",
+        "rank": "c"
+    },
+    {
+        "id": "1113",
+        "name": "Meliodas",
+        "rank": "a"
+    },
+    {
+        "id": "1114",
+        "name": "Majinka Meliodas",
+        "rank": "sss"
+    },
+    {
+        "id": "1115",
+        "name": "Duke Drooly",
+        "rank": "ss"
+    },
+    {
+        "id": "1116",
+        "name": "Cloud",
+        "rank": "s"
+    },
+    {
+        "id": "1117",
+        "name": "Limit Break Cloud",
+        "rank": "z"
+    },
+    {
+        "id": "1118",
+        "name": "Lightning",
+        "rank": "s"
+    },
+    {
+        "id": "1119",
+        "name": "Fuyunyan Santa",
+        "rank": "sss"
+    },
+    {
+        "id": "1120",
+        "name": "Tengu'ou Kurama",
+        "rank": "ss"
+    },
+    {
+        "id": "1121",
+        "name": "Karasu Tengu",
+        "rank": "s"
+    },
+    {
+        "id": "1122",
+        "name": "Shutendoji (Oni Tribe)",
+        "rank": "sss"
+    },
+    {
+        "id": "1123",
+        "name": "Cutta-nah-nah",
+        "rank": "c"
+    },
+    {
+        "id": "1124",
+        "name": "B3-NK1",
+        "rank": "b"
+    },
+    {
+        "id": "1125",
+        "name": "Kachi Kachi Samurai",
+        "rank": "sss"
+    },
+    {
+        "id": "1126",
+        "name": "Peku",
+        "rank": "a"
+    },
+    {
+        "id": "1127",
+        "name": "Kuuten",
+        "rank": "sss"
+    },
+    {
+        "id": "1128",
+        "name": "Kenbumajin Byakko",
+        "rank": "sss"
+    },
+    {
+        "id": "1129",
+        "name": "Genjuu Byakko",
+        "rank": "ss"
+    },
+    {
+        "id": "1130",
+        "name": "Gentou",
+        "rank": "sss"
+    },
+    {
+        "id": "1131",
+        "name": "Bunny Trap",
+        "rank": "a"
+    },
+    {
+        "id": "1132",
+        "name": "Kakusei Masaru Saiga",
+        "rank": "s"
+    },
+    {
+        "id": "1133",
+        "name": "Shinji Itou",
+        "rank": "a"
+    },
+    {
+        "id": "1134",
+        "name": "Masaru Saiga",
+        "rank": "b"
+    },
+    {
+        "id": "1135",
+        "name": "Puni Tsubaki-hime",
+        "rank": "z"
+    },
+    {
+        "id": "1136",
+        "name": "Jinpei Jiba",
+        "rank": "a"
+    },
+    {
+        "id": "1137",
+        "name": "Melamelion Cho Hi",
+        "rank": "c"
+    },
+    {
+        "id": "1138",
+        "name": "Kakusei Melamelion Cho Hi",
+        "rank": "ss"
+    },
+    {
+        "id": "1139",
+        "name": "Raikou Bushinyan",
+        "rank": "z"
+    },
+    {
+        "id": "1140",
+        "name": "Solomon",
+        "rank": "ss"
+    },
+    {
+        "id": "1141",
+        "name": "Chou Kakusei Solomon",
+        "rank": "sss"
+    },
+    {
+        "id": "1142",
+        "name": "Black Dianyan",
+        "rank": "z"
+    },
+    {
+        "id": "1143",
+        "name": "Yuu (Royal Palace Knight)",
+        "rank": "z"
+    },
+    {
+        "id": "1144",
+        "name": "Versa",
+        "rank": "ss"
+    },
+    {
+        "id": "1145",
+        "name": "Yuu",
+        "rank": "a"
+    },
+    {
+        "id": "1146",
+        "name": "Kakusei Punifuyu",
+        "rank": "ss"
+    },
+    {
+        "id": "1147",
+        "name": "Phantom Sword Noctis",
+        "rank": "z"
+    },
+    {
+        "id": "1148",
+        "name": "Noctis",
+        "rank": "s"
+    },
+    {
+        "id": "1149",
+        "name": "Warrior of Light",
+        "rank": "a"
+    },
+    {
+        "id": "1150",
+        "name": "Chou Kakusei Gabriel (Gatekeeper Transcension)",
+        "rank": "sss"
+    },
+    {
+        "id": "1151",
+        "name": "Pop'n Jinpei",
+        "rank": "s"
+    },
+    {
+        "id": "1152",
+        "name": "Kengo Benimaru",
+        "rank": "z"
+    },
+    {
+        "id": "1153",
+        "name": "Fuujin",
+        "rank": "sss"
+    },
+    {
+        "id": "1154",
+        "name": "Raijin",
+        "rank": "sss"
+    },
+    {
+        "id": "1155",
+        "name": "Fuu-kun",
+        "rank": "ss"
+    },
+    {
+        "id": "1156",
+        "name": "Rai-chan",
+        "rank": "ss"
+    },
+    {
+        "id": "1157",
+        "name": "Ooflowernokami",
+        "rank": "ss"
+    },
+    {
+        "id": "1158",
+        "name": "Jaou Shin Gacchi Gachi",
+        "rank": "z"
+    },
+    {
+        "id": "1159",
+        "name": "Duke Doggy",
+        "rank": "ss"
+    },
+    {
+        "id": "1160",
+        "name": "Man'ojishimai",
+        "rank": "z"
+    },
+    {
+        "id": "1161",
+        "name": "Oni Kakusei Shutendouji",
+        "rank": "z"
+    },
+    {
+        "id": "1162",
+        "name": "Chou Kakusei Fuu-kun",
+        "rank": "sss"
+    },
+    {
+        "id": "1163",
+        "name": "Chou Kakusei Rai-chan",
+        "rank": "sss"
+    },
+    {
+        "id": "1164",
+        "name": "Saya",
+        "rank": "ss"
+    },
+    {
+        "id": "1165",
+        "name": "Knight",
+        "rank": "sss"
+    },
+    {
+        "id": "1166",
+        "name": "Gryphon",
+        "rank": "s"
+    },
+    {
+        "id": "1167",
+        "name": "Kakusei Inuyasha",
+        "rank": "ss"
+    },
+    {
+        "id": "1168",
+        "name": "Burly Kyouju",
+        "rank": "sss"
+    },
+    {
+        "id": "1169",
+        "name": "Fumetsu no Taiyou Kuuten",
+        "rank": "sss"
+    },
+    {
+        "id": "1170",
+        "name": "Shippuujinrai no Toushin Byakko",
+        "rank": "sss"
+    },
+    {
+        "id": "1171",
+        "name": "Kamen Rider 1",
+        "rank": "s"
+    },
+    {
+        "id": "1172",
+        "name": "Kamen Rider Black",
+        "rank": "sss"
+    },
+    {
+        "id": "1173",
+        "name": "Kamen Rider Den-O",
+        "rank": "s"
+    },
+    {
+        "id": "1174",
+        "name": "Kamen Rider Den-O Climax Form",
+        "rank": "zz"
+    },
+    {
+        "id": "1175",
+        "name": "Kirakirion",
+        "rank": "sss"
+    },
+    {
+        "id": "1176",
+        "name": "Reitou Onigiri",
+        "rank": "sss"
+    },
+    {
+        "id": "1177",
+        "name": "Tengu Reiou Kurama",
+        "rank": "sss"
+    },
+    {
+        "id": "1178",
+        "name": "Y-Kakusei Kengo Benimaru",
+        "rank": "z"
+    },
+    {
+        "id": "1179",
+        "name": "Shutendoji Kai",
+        "rank": "zz"
+    },
+    {
+        "id": "1180",
+        "name": "Bushinyan Future",
+        "rank": "zz"
+    },
+    {
+        "id": "1181",
+        "name": "Onitaiji",
+        "rank": "z"
+    },
+    {
+        "id": "1182",
+        "name": "Earth Walker",
+        "rank": "zz"
+    },
+    {
+        "id": "1183",
+        "name": "Mikettio",
+        "rank": "z"
+    },
+    {
+        "id": "1184",
+        "name": "Phantasmurai",
+        "rank": "ss"
+    },
+    {
+        "id": "1185",
+        "name": "Excalibur",
+        "rank": "z"
+    },
+    {
+        "id": "1186",
+        "name": "Kengo Benimaru (Seiken Version)",
+        "rank": "z"
+    },
+    {
+        "id": "1187",
+        "name": "Earth Walker NOA",
+        "rank": "zz"
+    },
+    {
+        "id": "1188",
+        "name": "Jaou Keima Byakko",
+        "rank": "zz"
+    },
+    {
+        "id": "1189",
+        "name": "The Dragon's Sin, Meliodas",
+        "rank": "ss"
+    },
+    {
+        "id": "1190",
+        "name": "Arthur",
+        "rank": "s"
+    },
+    {
+        "id": "1191",
+        "name": "Earth Walker NOA Armored",
+        "rank": "zz"
+    },
+    {
+        "id": "1192",
+        "name": "Daiou Fuhyou Onigumo",
+        "rank": "zz"
+    },
+    {
+        "id": "1193",
+        "name": "Jaou Gun Kuwaga Taishou",
+        "rank": "sss"
+    },
+    {
+        "id": "1194",
+        "name": "Terranog",
+        "rank": "z"
+    },
+    {
+        "id": "1195",
+        "name": "Namahage O",
+        "rank": "sss"
+    },
+    {
+        "id": "1196",
+        "name": "Ryuuta Riu (Younenki)",
+        "rank": "z"
+    },
+    {
+        "id": "1197",
+        "name": "Shikokushu Dandory",
+        "rank": "z"
+    },
+    {
+        "id": "1198",
+        "name": "Metsuryuutai Shivaraku",
+        "rank": "sss"
+    },
+    {
+        "id": "1199",
+        "name": "Heiji Hattori",
+        "rank": "z"
+    },
+    {
+        "id": "1200",
+        "name": "Recca Hanabishi",
+        "rank": "z"
+    },
+    {
+        "id": "1201",
+        "name": "Kakusei Ranma Saotome",
+        "rank": "ss"
+    },
+    {
+        "id": "1202",
+        "name": "Daiou Keima Shutendouji",
+        "rank": "zz"
+    },
+    {
+        "id": "1203",
+        "name": "Jaou Gun Onikui",
+        "rank": "sss"
+    },
+    {
+        "id": "2001",
+        "name": "Espy",
+        "rank": "b"
+    },
+    {
+        "id": "2002",
+        "name": "Infour",
+        "rank": "b"
+    },
+    {
+        "id": "2003",
+        "name": "Wazzat",
+        "rank": "e"
+    },
+    {
+        "id": "2004",
+        "name": "Dummkap",
+        "rank": "e"
+    },
+    {
+        "id": "2005",
+        "name": "Casanuva",
+        "rank": "a"
+    },
+    {
+        "id": "2006",
+        "name": "Casanono",
+        "rank": "a"
+    },
+    {
+        "id": "2007",
+        "name": "Tattletell",
+        "rank": "d"
+    },
+    {
+        "id": "2008",
+        "name": "Skranny",
+        "rank": "c"
+    },
+    {
+        "id": "2009",
+        "name": "Tattlecast",
+        "rank": "b"
+    },
+    {
+        "id": "2010",
+        "name": "Signibble",
+        "rank": "d"
+    },
+    {
+        "id": "2011",
+        "name": "Signiton",
+        "rank": "a"
+    },
+    {
+        "id": "2012",
+        "name": "Master Oden",
+        "rank": "a"
+    },
+    {
+        "id": "2013",
+        "name": "Statiking",
+        "rank": "s"
+    },
+    {
+        "id": "2014",
+        "name": "Mirapo",
+        "rank": "c"
+    },
+    {
+        "id": "2015",
+        "name": "Mircle",
+        "rank": "a"
+    },
+    {
+        "id": "2016",
+        "name": "Illoo",
+        "rank": "c"
+    },
+    {
+        "id": "2017",
+        "name": "Elloo",
+        "rank": "c"
+    },
+    {
+        "id": "2018",
+        "name": "Alloo",
+        "rank": "b"
+    },
+    {
+        "id": "2019",
+        "name": "Kyubi",
+        "rank": "s"
+    },
+    {
+        "id": "2020",
+        "name": "Frostail",
+        "rank": "s"
+    },
+    {
+        "id": "2021",
+        "name": "Komashura",
+        "rank": "s"
+    },
+    {
+        "id": "2022",
+        "name": "Fuu 2",
+        "rank": "c"
+    },
+    {
+        "id": "2023",
+        "name": "Chymera",
+        "rank": "s"
+    },
+    {
+        "id": "2024",
+        "name": "Kingmera",
+        "rank": "s"
+    },
+    {
+        "id": "2025",
+        "name": "Miradox",
+        "rank": "a"
+    },
+    {
+        "id": "2026",
+        "name": "Smogling",
+        "rank": "d"
+    },
+    {
+        "id": "2027",
+        "name": "Smogmella",
+        "rank": "a"
+    },
+    {
+        "id": "2028",
+        "name": "Bakurobaa Kou Getsuei",
+        "rank": "d"
+    },
+    {
+        "id": "2029",
+        "name": "Kyubi Jun Iku",
+        "rank": "s"
+    },
+    {
+        "id": "2030",
+        "name": "Dokurobaa Kou Getsuei",
+        "rank": "c"
+    },
+    {
+        "id": "2031",
+        "name": "Satori-chan Chou Shou",
+        "rank": "b"
+    },
+    {
+        "id": "2032",
+        "name": "Motenusu Kakuka",
+        "rank": "a"
+    },
+    {
+        "id": "2033",
+        "name": "Yotsume Chou Shou",
+        "rank": "b"
+    },
+    {
+        "id": "2034",
+        "name": "Motemacool Kakuka",
+        "rank": "a"
+    },
+    {
+        "id": "2035",
+        "name": "Kyubi Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "2036",
+        "name": "Detective Conyan",
+        "rank": "a"
+    },
+    {
+        "id": "2037",
+        "name": "Tattleterror",
+        "rank": "ss"
+    },
+    {
+        "id": "2038",
+        "name": "Pittapatt",
+        "rank": "e"
+    },
+    {
+        "id": "2039",
+        "name": "Cornfused",
+        "rank": "d"
+    },
+    {
+        "id": "2040",
+        "name": "Squandeer",
+        "rank": "a"
+    },
+    {
+        "id": "2041",
+        "name": "Agent Spect-hare",
+        "rank": "s"
+    },
+    {
+        "id": "2042",
+        "name": "Statikid",
+        "rank": "b"
+    },
+    {
+        "id": "2043",
+        "name": "House Partay",
+        "rank": "c"
+    },
+    {
+        "id": "2044",
+        "name": "Chicken Chukket",
+        "rank": "d"
+    },
+    {
+        "id": "2045",
+        "name": "Snow Spect-hare",
+        "rank": "s"
+    },
+    {
+        "id": "2046",
+        "name": "Zip Unlock",
+        "rank": "e"
+    },
+    {
+        "id": "2047",
+        "name": "Too-Much-To-Take",
+        "rank": "a"
+    },
+    {
+        "id": "2048",
+        "name": "Unshelltered",
+        "rank": "d"
+    },
+    {
+        "id": "2049",
+        "name": "T. Energison",
+        "rank": "ss"
+    },
+    {
+        "id": "2050",
+        "name": "Miss Teri",
+        "rank": "b"
+    },
+    {
+        "id": "2051",
+        "name": "Professor Plumage",
+        "rank": "b"
+    },
+    {
+        "id": "2052",
+        "name": "Robonyan 3000",
+        "rank": "ss"
+    },
+    {
+        "id": "2053",
+        "name": "Toadal Demon",
+        "rank": "s"
+    },
+    {
+        "id": "2054",
+        "name": "Thurston",
+        "rank": "s"
+    },
+    {
+        "id": "2055",
+        "name": "Tengu",
+        "rank": "s"
+    },
+    {
+        "id": "2056",
+        "name": "Koma Star",
+        "rank": "ss"
+    },
+    {
+        "id": "2057",
+        "name": "Yoganalisten",
+        "rank": "c"
+    },
+    {
+        "id": "2058",
+        "name": "Maginyan",
+        "rank": "a"
+    },
+    {
+        "id": "2059",
+        "name": "Whaleman",
+        "rank": "ss"
+    },
+    {
+        "id": "2060",
+        "name": "Failian",
+        "rank": "c"
+    },
+    {
+        "id": "2061",
+        "name": "Verygoodsir",
+        "rank": "b"
+    },
+    {
+        "id": "2062",
+        "name": "Snottle",
+        "rank": "d"
+    },
+    {
+        "id": "2063",
+        "name": "Hotei",
+        "rank": "ss"
+    },
+    {
+        "id": "2064",
+        "name": "Sakura Orochi",
+        "rank": "ss"
+    },
+    {
+        "id": "2065",
+        "name": "Pompompurin",
+        "rank": "b"
+    },
+    {
+        "id": "2066",
+        "name": "Pompompurin S",
+        "rank": "s"
+    },
+    {
+        "id": "2067",
+        "name": "Throne Wiper",
+        "rank": "b"
+    },
+    {
+        "id": "2068",
+        "name": "Imagenius",
+        "rank": "b"
+    },
+    {
+        "id": "2069",
+        "name": "Duchoo",
+        "rank": "d"
+    },
+    {
+        "id": "2070",
+        "name": "Shurakoma Den Tan",
+        "rank": "ss"
+    },
+    {
+        "id": "2071",
+        "name": "Hatsudenjin Bakin",
+        "rank": "s"
+    },
+    {
+        "id": "2072",
+        "name": "Enraenra Shin Shi",
+        "rank": "a"
+    },
+    {
+        "id": "2073",
+        "name": "Cupistol",
+        "rank": "d"
+    },
+    {
+        "id": "2074",
+        "name": "Flengu",
+        "rank": "s"
+    },
+    {
+        "id": "2075",
+        "name": "Sarcophacurse",
+        "rank": "s"
+    },
+    {
+        "id": "2076",
+        "name": "Shovulcan",
+        "rank": "a"
+    },
+    {
+        "id": "2077",
+        "name": "Maiden Ruin",
+        "rank": "ss"
+    },
+    {
+        "id": "2078",
+        "name": "Aphrodite",
+        "rank": "s"
+    },
+    {
+        "id": "2079",
+        "name": "Conan Edogawa",
+        "rank": "b"
+    },
+    {
+        "id": "2080",
+        "name": "Kaitou Kid",
+        "rank": "ss"
+    },
+    {
+        "id": "2081",
+        "name": "Naandhi",
+        "rank": "a"
+    },
+    {
+        "id": "2082",
+        "name": "Kirakoma Santa",
+        "rank": "ss"
+    },
+    {
+        "id": "2083",
+        "name": "Bowminos",
+        "rank": "a"
+    },
+    {
+        "id": "2084",
+        "name": "Catleen",
+        "rank": "ss"
+    },
+    {
+        "id": "2085",
+        "name": "So-Sorree",
+        "rank": "d"
+    },
+    {
+        "id": "2086",
+        "name": "Sunakake Babaa",
+        "rank": "b"
+    },
+    {
+        "id": "2087",
+        "name": "Ittan-momen",
+        "rank": "a"
+    },
+    {
+        "id": "2088",
+        "name": "Ittan-momen S",
+        "rank": "s"
+    },
+    {
+        "id": "2089",
+        "name": "Why Naant",
+        "rank": "e"
+    },
+    {
+        "id": "2090",
+        "name": "Blips",
+        "rank": "c"
+    },
+    {
+        "id": "2091",
+        "name": "Yodelsen",
+        "rank": "ss"
+    },
+    {
+        "id": "2092",
+        "name": "Mademoaiselle",
+        "rank": "s"
+    },
+    {
+        "id": "2093",
+        "name": "Captain Dodo",
+        "rank": "a"
+    },
+    {
+        "id": "2094",
+        "name": "Mr. Scoop Gold",
+        "rank": "s"
+    },
+    {
+        "id": "2095",
+        "name": "Lord Shrillington",
+        "rank": "c"
+    },
+    {
+        "id": "2096",
+        "name": "Yoshitsune",
+        "rank": "ss"
+    },
+    {
+        "id": "2097",
+        "name": "Apelican",
+        "rank": "c"
+    },
+    {
+        "id": "2098",
+        "name": "Lionguist",
+        "rank": "c"
+    },
+    {
+        "id": "2099",
+        "name": "Sonny Wright",
+        "rank": "b"
+    },
+    {
+        "id": "2100",
+        "name": "Kakusei Asuto",
+        "rank": "ss"
+    },
+    {
+        "id": "2101",
+        "name": "Kyubi (Shadow)",
+        "rank": "ss"
+    },
+    {
+        "id": "2102",
+        "name": "Kyubi (Light)",
+        "rank": "s"
+    },
+    {
+        "id": "2103",
+        "name": "Gowther",
+        "rank": "b"
+    },
+    {
+        "id": "2104",
+        "name": "Kakusei Gowther",
+        "rank": "ss"
+    },
+    {
+        "id": "2105",
+        "name": "Boogiemum",
+        "rank": "ss"
+    },
+    {
+        "id": "2106",
+        "name": "Skulleidoscope",
+        "rank": "c"
+    },
+    {
+        "id": "2107",
+        "name": "Crystal Shurakoma",
+        "rank": "sss"
+    },
+    {
+        "id": "2108",
+        "name": "Kenbumajin Suzaku",
+        "rank": "sss"
+    },
+    {
+        "id": "2109",
+        "name": "Layton",
+        "rank": "ss"
+    },
+    {
+        "id": "2110",
+        "name": "Genjuu Suzaku",
+        "rank": "ss"
+    },
+    {
+        "id": "2111",
+        "name": "Cecil",
+        "rank": "s"
+    },
+    {
+        "id": "2112",
+        "name": "Bartz",
+        "rank": "ss"
+    },
+    {
+        "id": "2113",
+        "name": "Orifalcon",
+        "rank": "ss"
+    },
+    {
+        "id": "2114",
+        "name": "Kenshin Amaterasu",
+        "rank": "sss"
+    },
+    {
+        "id": "2115",
+        "name": "Gusto",
+        "rank": "ss"
+    },
+    {
+        "id": "2116",
+        "name": "Q'wit",
+        "rank": "c"
+    },
+    {
+        "id": "2117",
+        "name": "Houzzat",
+        "rank": "b"
+    },
+    {
+        "id": "2118",
+        "name": "Last Girakoma",
+        "rank": "z"
+    },
+    {
+        "id": "2119",
+        "name": "Puni Kyubi",
+        "rank": "sss"
+    },
+    {
+        "id": "2120",
+        "name": "Puni-ko",
+        "rank": "a"
+    },
+    {
+        "id": "2121",
+        "name": "Nihon Daihyou Asuto",
+        "rank": "a"
+    },
+    {
+        "id": "2122",
+        "name": "Kakusei Kaitou Kid",
+        "rank": "sss"
+    },
+    {
+        "id": "2123",
+        "name": "Kakusei Snow Rabby",
+        "rank": "ss"
+    },
+    {
+        "id": "2124",
+        "name": "Kiki & Lala Kirakoma",
+        "rank": "sss"
+    },
+    {
+        "id": "2125",
+        "name": "Kiki",
+        "rank": "ss"
+    },
+    {
+        "id": "2126",
+        "name": "Lala",
+        "rank": "ss"
+    },
+    {
+        "id": "2127",
+        "name": "Puni Kyubi Jun Iku",
+        "rank": "sss"
+    },
+    {
+        "id": "2128",
+        "name": "Moses",
+        "rank": "a"
+    },
+    {
+        "id": "2129",
+        "name": "Kakusei Moses",
+        "rank": "s"
+    },
+    {
+        "id": "2130",
+        "name": "Omatsuri Enraenra",
+        "rank": "ss"
+    },
+    {
+        "id": "2131",
+        "name": "Kachi Kachi Kamen",
+        "rank": "sss"
+    },
+    {
+        "id": "2132",
+        "name": "Ruby Shurakoma",
+        "rank": "z"
+    },
+    {
+        "id": "2133",
+        "name": "Tidus",
+        "rank": "ss"
+    },
+    {
+        "id": "2134",
+        "name": "Firion",
+        "rank": "b"
+    },
+    {
+        "id": "2135",
+        "name": "Chou Kakusei Nostradamus",
+        "rank": "sss"
+    },
+    {
+        "id": "2136",
+        "name": "Youen Juushinka Kyubi-kun",
+        "rank": "ss"
+    },
+    {
+        "id": "2137",
+        "name": "Ninetail",
+        "rank": "sss"
+    },
+    {
+        "id": "2138",
+        "name": "Izuna",
+        "rank": "ss"
+    },
+    {
+        "id": "2139",
+        "name": "Ryusuke Kyubi",
+        "rank": "s"
+    },
+    {
+        "id": "2140",
+        "name": "Snotsolong",
+        "rank": "a"
+    },
+    {
+        "id": "2141",
+        "name": "Kakusei Enraenra",
+        "rank": "ss"
+    },
+    {
+        "id": "2142",
+        "name": "Inugami (Shadow)",
+        "rank": "ss"
+    },
+    {
+        "id": "2143",
+        "name": "Mame Inugami",
+        "rank": "ss"
+    },
+    {
+        "id": "2144",
+        "name": "Wild Boy",
+        "rank": "z"
+    },
+    {
+        "id": "2145",
+        "name": "Goromi",
+        "rank": "sss"
+    },
+    {
+        "id": "2146",
+        "name": "Horemacool",
+        "rank": "sss"
+    },
+    {
+        "id": "2147",
+        "name": "Damarebaan",
+        "rank": "ss"
+    },
+    {
+        "id": "2148",
+        "name": "Clock Lady",
+        "rank": "z"
+    },
+    {
+        "id": "2149",
+        "name": "Souten no Yoroi Kabuto Suzaku",
+        "rank": "zz"
+    },
+    {
+        "id": "2150",
+        "name": "Shuukichi Haneda",
+        "rank": "sss"
+    },
+    {
+        "id": "2151",
+        "name": "Mary",
+        "rank": "ss"
+    },
+    {
+        "id": "2152",
+        "name": "Hyakkaryouran no Ranshin Suzaku",
+        "rank": "sss"
+    },
+    {
+        "id": "2153",
+        "name": "Blue Moon",
+        "rank": "zz"
+    },
+    {
+        "id": "2154",
+        "name": "Medatsukotosuki",
+        "rank": "ss"
+    },
+    {
+        "id": "2155",
+        "name": "Kamen Rider Zero-One",
+        "rank": "a"
+    },
+    {
+        "id": "2156",
+        "name": "Kamen Rider Zero-One Metal Cluster Hopper",
+        "rank": "z"
+    },
+    {
+        "id": "2157",
+        "name": "Daikaizoku Shurahige",
+        "rank": "zz"
+    },
+    {
+        "id": "2158",
+        "name": "Summer Rabby",
+        "rank": "sss"
+    },
+    {
+        "id": "2159",
+        "name": "Pintocool",
+        "rank": "ss"
+    },
+    {
+        "id": "2160",
+        "name": "Bousou Amaterasu",
+        "rank": "zz"
+    },
+    {
+        "id": "2161",
+        "name": "Neko Meiou Bastet",
+        "rank": "sss"
+    },
+    {
+        "id": "2162",
+        "name": "Draculadoji",
+        "rank": "z"
+    },
+    {
+        "id": "2163",
+        "name": "Isshougomen",
+        "rank": "ss"
+    },
+    {
+        "id": "2164",
+        "name": "Mame Inugami Jun Iku",
+        "rank": "sss"
+    },
+    {
+        "id": "2165",
+        "name": "Y-Kakusei Ninetail",
+        "rank": "sss"
+    },
+    {
+        "id": "2166",
+        "name": "Gokuaku Monban",
+        "rank": "sss"
+    },
+    {
+        "id": "2167",
+        "name": "Don Spiracy",
+        "rank": "sss"
+    },
+    {
+        "id": "2168",
+        "name": "Tokai OnAir Rikei",
+        "rank": "z"
+    },
+    {
+        "id": "2169",
+        "name": "Youma Gucci",
+        "rank": "s"
+    },
+    {
+        "id": "2170",
+        "name": "Gucci",
+        "rank": "a"
+    },
+    {
+        "id": "2171",
+        "name": "Chou Kakusei Noah",
+        "rank": "sss"
+    },
+    {
+        "id": "2172",
+        "name": "Noah",
+        "rank": "ss"
+    },
+    {
+        "id": "2173",
+        "name": "Daiou Gun Yoshitsune",
+        "rank": "z"
+    },
+    {
+        "id": "2174",
+        "name": "Yuki no Kyoshin",
+        "rank": "sss"
+    },
+    {
+        "id": "2175",
+        "name": "The Goat's Sin, Gowther",
+        "rank": "sss"
+    },
+    {
+        "id": "2176",
+        "name": "Jaou Kyousha Onigama",
+        "rank": "zz"
+    },
+    {
+        "id": "2177",
+        "name": "Amateraia",
+        "rank": "sss"
+    },
+    {
+        "id": "2178",
+        "name": "Tengu the Nine",
+        "rank": "sss"
+    },
+    {
+        "id": "2179",
+        "name": "Shikokushu Catleen",
+        "rank": "sss"
+    },
+    {
+        "id": "2180",
+        "name": "Shin'ichi Kudou",
+        "rank": "zz"
+    },
+    {
+        "id": "2181",
+        "name": "Entsumeshuu Shurakoma",
+        "rank": "z"
+    },
+    {
+        "id": "3001",
+        "name": "Dulluma",
+        "rank": "e"
+    },
+    {
+        "id": "3002",
+        "name": "Darumacho",
+        "rank": "b"
+    },
+    {
+        "id": "3003",
+        "name": "Goruma",
+        "rank": "b"
+    },
+    {
+        "id": "3004",
+        "name": "Noway",
+        "rank": "e"
+    },
+    {
+        "id": "3005",
+        "name": "Mad Mountain",
+        "rank": "c"
+    },
+    {
+        "id": "3006",
+        "name": "Lava Lord",
+        "rank": "b"
+    },
+    {
+        "id": "3007",
+        "name": "Rhinoggin",
+        "rank": "b"
+    },
+    {
+        "id": "3008",
+        "name": "Robonyan",
+        "rank": "a"
+    },
+    {
+        "id": "3009",
+        "name": "Goldenyan",
+        "rank": "s"
+    },
+    {
+        "id": "3010",
+        "name": "Fidgephant",
+        "rank": "d"
+    },
+    {
+        "id": "3011",
+        "name": "Touphant",
+        "rank": "c"
+    },
+    {
+        "id": "3012",
+        "name": "Roughraff",
+        "rank": "e"
+    },
+    {
+        "id": "3013",
+        "name": "Badude",
+        "rank": "b"
+    },
+    {
+        "id": "3014",
+        "name": "Bruff",
+        "rank": "a"
+    },
+    {
+        "id": "3015",
+        "name": "Gilgaros",
+        "rank": "s"
+    },
+    {
+        "id": "3016",
+        "name": "Wotchagot",
+        "rank": "e"
+    },
+    {
+        "id": "3017",
+        "name": "Swelton",
+        "rank": "c"
+    },
+    {
+        "id": "3018",
+        "name": "Pride Shrimp",
+        "rank": "b"
+    },
+    {
+        "id": "3019",
+        "name": "Gargaros",
+        "rank": "s"
+    },
+    {
+        "id": "3020",
+        "name": "Ogralus",
+        "rank": "s"
+    },
+    {
+        "id": "3021",
+        "name": "Orcanos",
+        "rank": "s"
+    },
+    {
+        "id": "3022",
+        "name": "Puppynyan",
+        "rank": "b"
+    },
+    {
+        "id": "3023",
+        "name": "Robonyan F",
+        "rank": "a"
+    },
+    {
+        "id": "3024",
+        "name": "Sternyan",
+        "rank": "s"
+    },
+    {
+        "id": "3025",
+        "name": "Uber Geeko",
+        "rank": "s"
+    },
+    {
+        "id": "3026",
+        "name": "Orcanos Lu Bu",
+        "rank": "s"
+    },
+    {
+        "id": "3027",
+        "name": "Robonyan Cho Un",
+        "rank": "a"
+    },
+    {
+        "id": "3028",
+        "name": "Noruka",
+        "rank": "s"
+    },
+    {
+        "id": "3029",
+        "name": "Robonyan 28",
+        "rank": "ss"
+    },
+    {
+        "id": "3030",
+        "name": "Toadal Dude Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "3031",
+        "name": "Oh Bah Gah!",
+        "rank": "d"
+    },
+    {
+        "id": "3032",
+        "name": "Silver Lining",
+        "rank": "s"
+    },
+    {
+        "id": "3033",
+        "name": "Showbonyan",
+        "rank": "a"
+    },
+    {
+        "id": "3034",
+        "name": "Roughgraff",
+        "rank": "b"
+    },
+    {
+        "id": "3035",
+        "name": "No-Go Kart",
+        "rank": "e"
+    },
+    {
+        "id": "3036",
+        "name": "Mistank",
+        "rank": "b"
+    },
+    {
+        "id": "3037",
+        "name": "Oh Wheel",
+        "rank": "e"
+    },
+    {
+        "id": "3038",
+        "name": "Speedemountain",
+        "rank": "d"
+    },
+    {
+        "id": "3039",
+        "name": "Repossessor",
+        "rank": "c"
+    },
+    {
+        "id": "3040",
+        "name": "The Jawsome Kid",
+        "rank": "s"
+    },
+    {
+        "id": "3041",
+        "name": "Nummskull",
+        "rank": "e"
+    },
+    {
+        "id": "3042",
+        "name": "Platinos",
+        "rank": "s"
+    },
+    {
+        "id": "3043",
+        "name": "Tora",
+        "rank": "a"
+    },
+    {
+        "id": "3044",
+        "name": "Tora S",
+        "rank": "s"
+    },
+    {
+        "id": "3045",
+        "name": "Dromp",
+        "rank": "s"
+    },
+    {
+        "id": "3046",
+        "name": "Dangerousrynyan",
+        "rank": "a"
+    },
+    {
+        "id": "3047",
+        "name": "Urnfulfilled",
+        "rank": "b"
+    },
+    {
+        "id": "3048",
+        "name": "Sad to the Bone",
+        "rank": "a"
+    },
+    {
+        "id": "3049",
+        "name": "Ultimate Robonyan",
+        "rank": "ss"
+    },
+    {
+        "id": "3050",
+        "name": "El Sharkador",
+        "rank": "s"
+    },
+    {
+        "id": "3051",
+        "name": "Hornaplenty",
+        "rank": "s"
+    },
+    {
+        "id": "3052",
+        "name": "Swosh",
+        "rank": "s"
+    },
+    {
+        "id": "3053",
+        "name": "Castelius Max",
+        "rank": "s"
+    },
+    {
+        "id": "3054",
+        "name": "Frazzel",
+        "rank": "a"
+    },
+    {
+        "id": "3055",
+        "name": "Kyubot",
+        "rank": "s"
+    },
+    {
+        "id": "3056",
+        "name": "Cinnamoroll",
+        "rank": "b"
+    },
+    {
+        "id": "3057",
+        "name": "Cinnamoroll S",
+        "rank": "s"
+    },
+    {
+        "id": "3058",
+        "name": "Daikokuten",
+        "rank": "ss"
+    },
+    {
+        "id": "3059",
+        "name": "Kabuking",
+        "rank": "ss"
+    },
+    {
+        "id": "3060",
+        "name": "Zappary",
+        "rank": "d"
+    },
+    {
+        "id": "3061",
+        "name": "Skillskull",
+        "rank": "a"
+    },
+    {
+        "id": "3062",
+        "name": "Venoctobot",
+        "rank": "s"
+    },
+    {
+        "id": "3063",
+        "name": "Steaking",
+        "rank": "a"
+    },
+    {
+        "id": "3064",
+        "name": "Admirable Admiral",
+        "rank": "a"
+    },
+    {
+        "id": "3065",
+        "name": "Terminyanator",
+        "rank": "s"
+    },
+    {
+        "id": "3066",
+        "name": "Terrorpotta",
+        "rank": "e"
+    },
+    {
+        "id": "3067",
+        "name": "King Deadward",
+        "rank": "s"
+    },
+    {
+        "id": "3068",
+        "name": "The Goldfather",
+        "rank": "ss"
+    },
+    {
+        "id": "3069",
+        "name": "Rhinormous",
+        "rank": "s"
+    },
+    {
+        "id": "3070",
+        "name": "Shobu Kirifuda",
+        "rank": "b"
+    },
+    {
+        "id": "3071",
+        "name": "Shobu Kirifuda S",
+        "rank": "s"
+    },
+    {
+        "id": "3072",
+        "name": "Blowkade",
+        "rank": "d"
+    },
+    {
+        "id": "3073",
+        "name": "Judgebrick",
+        "rank": "b"
+    },
+    {
+        "id": "3074",
+        "name": "Mark Evans",
+        "rank": "b"
+    },
+    {
+        "id": "3075",
+        "name": "Endou S",
+        "rank": "s"
+    },
+    {
+        "id": "3076",
+        "name": "David Samford",
+        "rank": "b"
+    },
+    {
+        "id": "3077",
+        "name": "Morgiana",
+        "rank": "a"
+    },
+    {
+        "id": "3078",
+        "name": "Enduriphant",
+        "rank": "a"
+    },
+    {
+        "id": "3079",
+        "name": "Gowin",
+        "rank": "ss"
+    },
+    {
+        "id": "3080",
+        "name": "Castelius I",
+        "rank": "a"
+    },
+    {
+        "id": "3081",
+        "name": "Mr. Blockhead",
+        "rank": "c"
+    },
+    {
+        "id": "3082",
+        "name": "Stircrazy Stu",
+        "rank": "a"
+    },
+    {
+        "id": "3083",
+        "name": "Zappadokia",
+        "rank": "s"
+    },
+    {
+        "id": "3084",
+        "name": "Nurikabe",
+        "rank": "b"
+    },
+    {
+        "id": "3085",
+        "name": "Nurikabe S",
+        "rank": "s"
+    },
+    {
+        "id": "3086",
+        "name": "Morigami Rex",
+        "rank": "ss"
+    },
+    {
+        "id": "3087",
+        "name": "Blownhistoppa",
+        "rank": "b"
+    },
+    {
+        "id": "3088",
+        "name": "Mumbles",
+        "rank": "s"
+    },
+    {
+        "id": "3089",
+        "name": "Roary",
+        "rank": "s"
+    },
+    {
+        "id": "3090",
+        "name": "Dragon Knight Chup",
+        "rank": "sss"
+    },
+    {
+        "id": "3091",
+        "name": "Dragon Knight Vinegar",
+        "rank": "ss"
+    },
+    {
+        "id": "3092",
+        "name": "Sultan Vinegar",
+        "rank": "s"
+    },
+    {
+        "id": "3093",
+        "name": "Commander Ciderfella",
+        "rank": "s"
+    },
+    {
+        "id": "3094",
+        "name": "Chup",
+        "rank": "a"
+    },
+    {
+        "id": "3095",
+        "name": "Walldin",
+        "rank": "a"
+    },
+    {
+        "id": "3096",
+        "name": "Armsman",
+        "rank": "d"
+    },
+    {
+        "id": "3097",
+        "name": "Castelius III",
+        "rank": "c"
+    },
+    {
+        "id": "3098",
+        "name": "Sumodon",
+        "rank": "d"
+    },
+    {
+        "id": "3099",
+        "name": "Robonyan 00 (Shadow)",
+        "rank": "s"
+    },
+    {
+        "id": "3100",
+        "name": "Bourei Banchou (Shadow)",
+        "rank": "s"
+    },
+    {
+        "id": "3101",
+        "name": "Basile Hardy",
+        "rank": "a"
+    },
+    {
+        "id": "3102",
+        "name": "Kozoumaru S",
+        "rank": "s"
+    },
+    {
+        "id": "3103",
+        "name": "Crystal Yamabuki Oni",
+        "rank": "sss"
+    },
+    {
+        "id": "3104",
+        "name": "Kakusei Aka Oni",
+        "rank": "ss"
+    },
+    {
+        "id": "3105",
+        "name": "Douketsu",
+        "rank": "ss"
+    },
+    {
+        "id": "3106",
+        "name": "Benkei",
+        "rank": "ss"
+    },
+    {
+        "id": "3107",
+        "name": "Diane",
+        "rank": "b"
+    },
+    {
+        "id": "3108",
+        "name": "Diane S",
+        "rank": "s"
+    },
+    {
+        "id": "3109",
+        "name": "Kintaronyan",
+        "rank": "s"
+    },
+    {
+        "id": "3110",
+        "name": "Alicktokat",
+        "rank": "ss"
+    },
+    {
+        "id": "3111",
+        "name": "Dragon Knight Legend Chup",
+        "rank": "sss"
+    },
+    {
+        "id": "3112",
+        "name": "Napdragon",
+        "rank": "a"
+    },
+    {
+        "id": "3113",
+        "name": "Sephiroth",
+        "rank": "sss"
+    },
+    {
+        "id": "3114",
+        "name": "Jecht",
+        "rank": "s"
+    },
+    {
+        "id": "3115",
+        "name": "Garland",
+        "rank": "b"
+    },
+    {
+        "id": "3116",
+        "name": "Gunshin Susanoo",
+        "rank": "z"
+    },
+    {
+        "id": "3117",
+        "name": "Kappa'ou Sagojou",
+        "rank": "ss"
+    },
+    {
+        "id": "3118",
+        "name": "Toadal Dude",
+        "rank": "s"
+    },
+    {
+        "id": "3119",
+        "name": "Darkness",
+        "rank": "ss"
+    },
+    {
+        "id": "3120",
+        "name": "Chilled Cowcao",
+        "rank": "e"
+    },
+    {
+        "id": "3121",
+        "name": "Nihon Daihyou Endou",
+        "rank": "sss"
+    },
+    {
+        "id": "3122",
+        "name": "Nihon Daihyou Nishikage",
+        "rank": "b"
+    },
+    {
+        "id": "3123",
+        "name": "Hakushu",
+        "rank": "sss"
+    },
+    {
+        "id": "3124",
+        "name": "Makoto Kyogoku",
+        "rank": "sss"
+    },
+    {
+        "id": "3125",
+        "name": "Puni Kuro Oni",
+        "rank": "z"
+    },
+    {
+        "id": "3126",
+        "name": "Plundros",
+        "rank": "sss"
+    },
+    {
+        "id": "3127",
+        "name": "Dassensha Ro Shu Ku",
+        "rank": "b"
+    },
+    {
+        "id": "3128",
+        "name": "Arthur",
+        "rank": "ss"
+    },
+    {
+        "id": "3129",
+        "name": "Chou Kakusei Arthur",
+        "rank": "sss"
+    },
+    {
+        "id": "3130",
+        "name": "Haru (Dark Knight)",
+        "rank": "sss"
+    },
+    {
+        "id": "3131",
+        "name": "Haru",
+        "rank": "a"
+    },
+    {
+        "id": "3132",
+        "name": "Kakusei Robonyan F-gata",
+        "rank": "ss"
+    },
+    {
+        "id": "3133",
+        "name": "Tifa",
+        "rank": "sss"
+    },
+    {
+        "id": "3134",
+        "name": "Zenos",
+        "rank": "s"
+    },
+    {
+        "id": "3135",
+        "name": "Kogasho Kojin",
+        "rank": "sss"
+    },
+    {
+        "id": "3136",
+        "name": "Meteogon",
+        "rank": "sss"
+    },
+    {
+        "id": "3137",
+        "name": "Kenbumajin Ashura",
+        "rank": "sss"
+    },
+    {
+        "id": "3138",
+        "name": "Shinma Douketsu",
+        "rank": "sss"
+    },
+    {
+        "id": "3139",
+        "name": "Yamabukihime",
+        "rank": "z"
+    },
+    {
+        "id": "3140",
+        "name": "Nuigorunyan",
+        "rank": "sss"
+    },
+    {
+        "id": "3141",
+        "name": "Aristokat",
+        "rank": "ss"
+    },
+    {
+        "id": "3142",
+        "name": "Shishi O",
+        "rank": "sss"
+    },
+    {
+        "id": "3143",
+        "name": "Kazuma Shishiguro",
+        "rank": "ss"
+    },
+    {
+        "id": "3144",
+        "name": "Otado",
+        "rank": "sss"
+    },
+    {
+        "id": "3145",
+        "name": "Ogama (Light)",
+        "rank": "sss"
+    },
+    {
+        "id": "3146",
+        "name": "Onikuma",
+        "rank": "ss"
+    },
+    {
+        "id": "3147",
+        "name": "Gakkouger Y",
+        "rank": "zz"
+    },
+    {
+        "id": "3148",
+        "name": "Clockman",
+        "rank": "s"
+    },
+    {
+        "id": "3149",
+        "name": "Jabberwock",
+        "rank": "sss"
+    },
+    {
+        "id": "3150",
+        "name": "Kienbanjou no Hashin Ashura",
+        "rank": "sss"
+    },
+    {
+        "id": "3151",
+        "name": "Media Giant",
+        "rank": "sss"
+    },
+    {
+        "id": "3152",
+        "name": "Zense Raise",
+        "rank": "sss"
+    },
+    {
+        "id": "3153",
+        "name": "Kamen Rider Drive",
+        "rank": "a"
+    },
+    {
+        "id": "3154",
+        "name": "Kamen Rider Drive Type Dead Heat",
+        "rank": "sss"
+    },
+    {
+        "id": "3155",
+        "name": "Kappa Buou Sagojou",
+        "rank": "sss"
+    },
+    {
+        "id": "3156",
+        "name": "Gyuuki",
+        "rank": "ss"
+    },
+    {
+        "id": "3157",
+        "name": "Mega Mohikong",
+        "rank": "sss"
+    },
+    {
+        "id": "3158",
+        "name": "Mohikan Goro",
+        "rank": "ss"
+    },
+    {
+        "id": "3159",
+        "name": "Gorunyan Chou Un",
+        "rank": "ss"
+    },
+    {
+        "id": "3160",
+        "name": "Pit Bull",
+        "rank": "sss"
+    },
+    {
+        "id": "3161",
+        "name": "Dober",
+        "rank": "sss"
+    },
+    {
+        "id": "3162",
+        "name": "DG Trooper",
+        "rank": "ss"
+    },
+    {
+        "id": "3163",
+        "name": "Cap'n Crash",
+        "rank": "sss"
+    },
+    {
+        "id": "3164",
+        "name": "The Ghoulfather",
+        "rank": "sss"
+    },
+    {
+        "id": "3165",
+        "name": "Yopple-Bot",
+        "rank": "ss"
+    },
+    {
+        "id": "3166",
+        "name": "Raidenryu",
+        "rank": "z"
+    },
+    {
+        "id": "3167",
+        "name": "Chou Youma Seikin",
+        "rank": "z"
+    },
+    {
+        "id": "3168",
+        "name": "Toma Koutei",
+        "rank": "sss"
+    },
+    {
+        "id": "3169",
+        "name": "Youma Satotin",
+        "rank": "ss"
+    },
+    {
+        "id": "3170",
+        "name": "Seikin",
+        "rank": "s"
+    },
+    {
+        "id": "3171",
+        "name": "Toma",
+        "rank": "a"
+    },
+    {
+        "id": "3172",
+        "name": "Satotin",
+        "rank": "b"
+    },
+    {
+        "id": "3173",
+        "name": "Y-Kakusei Shishi O",
+        "rank": "z"
+    },
+    {
+        "id": "3174",
+        "name": "Gakkouger Enma",
+        "rank": "zz"
+    },
+    {
+        "id": "3175",
+        "name": "Mazera Titan",
+        "rank": "z"
+    },
+    {
+        "id": "3176",
+        "name": "Y-Kakusei Miyazawa-san",
+        "rank": "ss"
+    },
+    {
+        "id": "3177",
+        "name": "Daiou Hisha Ashura",
+        "rank": "zz"
+    },
+    {
+        "id": "3178",
+        "name": "Daiou Gun Bourei Banchou (Shadow)",
+        "rank": "ss"
+    },
+    {
+        "id": "3179",
+        "name": "Mazera Bolt",
+        "rank": "z"
+    },
+    {
+        "id": "3180",
+        "name": "The Lion's Sin, Escanor",
+        "rank": "z"
+    },
+    {
+        "id": "3181",
+        "name": "The Serpent's Sin, Diane",
+        "rank": "sss"
+    },
+    {
+        "id": "3182",
+        "name": "Estarossa",
+        "rank": "sss"
+    },
+    {
+        "id": "3183",
+        "name": "Daiou Gun Ootsunonokami",
+        "rank": "z"
+    },
+    {
+        "id": "3184",
+        "name": "Jaou Gun Hiraishin",
+        "rank": "ss"
+    },
+    {
+        "id": "3185",
+        "name": "Susano Bladus",
+        "rank": "z"
+    },
+    {
+        "id": "3186",
+        "name": "Musha Blader",
+        "rank": "ss"
+    },
+    {
+        "id": "3187",
+        "name": "Earthman",
+        "rank": "zz"
+    },
+    {
+        "id": "3188",
+        "name": "Shikokushu Gowin",
+        "rank": "sss"
+    },
+    {
+        "id": "3189",
+        "name": "Kurei",
+        "rank": "z"
+    },
+    {
+        "id": "3190",
+        "name": "Jaou Kakugyou Douketsu",
+        "rank": "zz"
+    },
+    {
+        "id": "3191",
+        "name": "Daiou Gun Dassensha",
+        "rank": "ss"
+    },
+    {
+        "id": "3192",
+        "name": "Enryuu",
+        "rank": "zz"
+    },
+    {
+        "id": "3193",
+        "name": "Ryuuta Satoba (Toushi)",
+        "rank": "z"
+    },
+    {
+        "id": "3194",
+        "name": "Metsuryuutai Rib\u014dn",
+        "rank": "sss"
+    },
+    {
+        "id": "3195",
+        "name": "Entsumeshuu Gokudo",
+        "rank": "sss"
+    },
+    {
+        "id": "3196",
+        "name": "Robouemon",
+        "rank": "ss"
+    },
+    {
+        "id": 3199,
+        "name": "Ultraseven",
+        "tribe": "tough",
+        "rank": "z"
+    },
+    {
+        "id": "4001",
+        "name": "Baku",
+        "rank": "d"
+    },
+    {
+        "id": "4002",
+        "name": "Whapir",
+        "rank": "c"
+    },
+    {
+        "id": "4003",
+        "name": "Frostina",
+        "rank": "b"
+    },
+    {
+        "id": "4004",
+        "name": "Blizzaria",
+        "rank": "s"
+    },
+    {
+        "id": "4005",
+        "name": "Damona",
+        "rank": "s"
+    },
+    {
+        "id": "4006",
+        "name": "Cadin",
+        "rank": "e"
+    },
+    {
+        "id": "4007",
+        "name": "Jibanyan",
+        "rank": "d"
+    },
+    {
+        "id": "4008",
+        "name": "Thornyan",
+        "rank": "b"
+    },
+    {
+        "id": "4009",
+        "name": "Baddinyan",
+        "rank": "b"
+    },
+    {
+        "id": "4010",
+        "name": "Dianyan",
+        "rank": "a"
+    },
+    {
+        "id": "4011",
+        "name": "Sapphinyan",
+        "rank": "a"
+    },
+    {
+        "id": "4012",
+        "name": "Emenyan",
+        "rank": "a"
+    },
+    {
+        "id": "4013",
+        "name": "Rubinyan",
+        "rank": "a"
+    },
+    {
+        "id": "4014",
+        "name": "Topanyan",
+        "rank": "a"
+    },
+    {
+        "id": "4015",
+        "name": "Walkappa",
+        "rank": "d"
+    },
+    {
+        "id": "4016",
+        "name": "Komasan",
+        "rank": "d"
+    },
+    {
+        "id": "4017",
+        "name": "Komajiro",
+        "rank": "d"
+    },
+    {
+        "id": "4018",
+        "name": "Chilhuahua",
+        "rank": "s"
+    },
+    {
+        "id": "4019",
+        "name": "Swelterrier",
+        "rank": "s"
+    },
+    {
+        "id": "4020",
+        "name": "Shmoopie",
+        "rank": "c",
+        "skill": "befriend",
+        "get": "regular stages"
+    },
+    {
+        "id": "4021",
+        "name": "Boyclops",
+        "rank": "d"
+    },
+    {
+        "id": "4022",
+        "name": "Jibanyan B",
+        "rank": "b"
+    },
+    {
+        "id": "4023",
+        "name": "Sailornyan",
+        "rank": "a"
+    },
+    {
+        "id": "4024",
+        "name": "Jibakoma",
+        "rank": "a"
+    },
+    {
+        "id": "4025",
+        "name": "Chimpanyan",
+        "rank": "b"
+    },
+    {
+        "id": "4026",
+        "name": "Jibanyan A",
+        "rank": "a"
+    },
+    {
+        "id": "4027",
+        "name": "Jibanyan S",
+        "rank": "s"
+    },
+    {
+        "id": "4028",
+        "name": "Komasan A",
+        "rank": "a"
+    },
+    {
+        "id": "4029",
+        "name": "Komasan S",
+        "rank": "s"
+    },
+    {
+        "id": "4030",
+        "name": "Strawbnyan",
+        "rank": "b"
+    },
+    {
+        "id": "4031",
+        "name": "Grapenyan",
+        "rank": "b"
+    },
+    {
+        "id": "4032",
+        "name": "Watermelnyan",
+        "rank": "a"
+    },
+    {
+        "id": "4033",
+        "name": "Kiwinyan",
+        "rank": "b"
+    },
+    {
+        "id": "4034",
+        "name": "Buchinyan",
+        "rank": "c"
+    },
+    {
+        "id": "4035",
+        "name": "Melonyan",
+        "rank": "a"
+    },
+    {
+        "id": "4036",
+        "name": "Oranyan",
+        "rank": "b"
+    },
+    {
+        "id": "4037",
+        "name": "Faux Kappa",
+        "rank": "a"
+    },
+    {
+        "id": "4038",
+        "name": "Spoilerina",
+        "rank": "s"
+    },
+    {
+        "id": "4039",
+        "name": "Tigappa",
+        "rank": "s"
+    },
+    {
+        "id": "4040",
+        "name": "Appak",
+        "rank": "a"
+    },
+    {
+        "id": "4041",
+        "name": "Sapphinyan S",
+        "rank": "s"
+    },
+    {
+        "id": "4042",
+        "name": "Emenyan S",
+        "rank": "s"
+    },
+    {
+        "id": "4043",
+        "name": "Rubinyan S",
+        "rank": "s"
+    },
+    {
+        "id": "4044",
+        "name": "Fubuki-hime Sho Kyo",
+        "rank": "s"
+    },
+    {
+        "id": "4045",
+        "name": "Jibanyan Liu Bei",
+        "rank": "b"
+    },
+    {
+        "id": "4046",
+        "name": "Jibanyan S Ryubi",
+        "rank": "s"
+    },
+    {
+        "id": "4047",
+        "name": "Komasan Sun Ce",
+        "rank": "b"
+    },
+    {
+        "id": "4048",
+        "name": "Komasan S Son Saku",
+        "rank": "s"
+    },
+    {
+        "id": "4049",
+        "name": "Komajiro Sun Quan",
+        "rank": "b"
+    },
+    {
+        "id": "4050",
+        "name": "Komajiro S Son Ken",
+        "rank": "s"
+    },
+    {
+        "id": "4051",
+        "name": "Robokoma Son Saku",
+        "rank": "a"
+    },
+    {
+        "id": "4052",
+        "name": "Nogappa Kyou I",
+        "rank": "d"
+    },
+    {
+        "id": "4053",
+        "name": "Haku Rushi",
+        "rank": "c"
+    },
+    {
+        "id": "4054",
+        "name": "Baku Rushi",
+        "rank": "d"
+    },
+    {
+        "id": "4055",
+        "name": "Buchinyan Cho Un",
+        "rank": "c"
+    },
+    {
+        "id": "4056",
+        "name": "Supyo",
+        "rank": "a"
+    },
+    {
+        "id": "4057",
+        "name": "Rubeus J",
+        "rank": "ss"
+    },
+    {
+        "id": "4058",
+        "name": "Blizzaria Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "4059",
+        "name": "Robokapp",
+        "rank": "a"
+    },
+    {
+        "id": "4060",
+        "name": "Hardy Hound",
+        "rank": "ss"
+    },
+    {
+        "id": "4061",
+        "name": "Mr. Necky",
+        "rank": "a"
+    },
+    {
+        "id": "4062",
+        "name": "Komajiro A",
+        "rank": "a"
+    },
+    {
+        "id": "4063",
+        "name": "Komajiro S",
+        "rank": "s"
+    },
+    {
+        "id": "4064",
+        "name": "Wobblenyan",
+        "rank": "a"
+    },
+    {
+        "id": "4065",
+        "name": "Wibblekoma",
+        "rank": "a"
+    },
+    {
+        "id": "4066",
+        "name": "Sushinyan",
+        "rank": "a"
+    },
+    {
+        "id": "4067",
+        "name": "Punching Baguette",
+        "rank": "a"
+    },
+    {
+        "id": "4068",
+        "name": "Tomnyan",
+        "rank": "b"
+    },
+    {
+        "id": "4069",
+        "name": "Knomad Koma",
+        "rank": "b"
+    },
+    {
+        "id": "4070",
+        "name": "Knomad Jiro",
+        "rank": "b"
+    },
+    {
+        "id": "4071",
+        "name": "Unbelievaboy!",
+        "rank": "e"
+    },
+    {
+        "id": "4072",
+        "name": "Princess Pearl",
+        "rank": "ss"
+    },
+    {
+        "id": "4073",
+        "name": "Tengulightened",
+        "rank": "s"
+    },
+    {
+        "id": "4074",
+        "name": "Inflammaboy!",
+        "rank": "s"
+    },
+    {
+        "id": "4075",
+        "name": "K-Koma S",
+        "rank": "s"
+    },
+    {
+        "id": "4076",
+        "name": "K-Jiro S",
+        "rank": "s"
+    },
+    {
+        "id": "4077",
+        "name": "Puppiccino",
+        "rank": "c"
+    },
+    {
+        "id": "4078",
+        "name": "Tomnyan S",
+        "rank": "s"
+    },
+    {
+        "id": "4079",
+        "name": "Tempurasan",
+        "rank": "a"
+    },
+    {
+        "id": "4080",
+        "name": "Tenguriginal",
+        "rank": "s"
+    },
+    {
+        "id": "4081",
+        "name": "Mooglenyan",
+        "rank": "s"
+    },
+    {
+        "id": "4082",
+        "name": "Unbearaboy!",
+        "rank": "s"
+    },
+    {
+        "id": "4083",
+        "name": "Chocobonyan",
+        "rank": "s"
+    },
+    {
+        "id": "4084",
+        "name": "Robokoma",
+        "rank": "a"
+    },
+    {
+        "id": "4085",
+        "name": "Komajiro Ten",
+        "rank": "a"
+    },
+    {
+        "id": "4086",
+        "name": "Lum",
+        "rank": "b"
+    },
+    {
+        "id": "4087",
+        "name": "Lum S",
+        "rank": "s"
+    },
+    {
+        "id": "4088",
+        "name": "Lum Pink",
+        "rank": "a"
+    },
+    {
+        "id": "4089",
+        "name": "Ranma Saotome",
+        "rank": "b"
+    },
+    {
+        "id": "4090",
+        "name": "Ranma Saotome S",
+        "rank": "s"
+    },
+    {
+        "id": "4091",
+        "name": "Pink Emperor",
+        "rank": "ss"
+    },
+    {
+        "id": "4092",
+        "name": "Komane",
+        "rank": "a"
+    },
+    {
+        "id": "4093",
+        "name": "Koma Santa",
+        "rank": "ss"
+    },
+    {
+        "id": "4094",
+        "name": "Komajiro Santa",
+        "rank": "s"
+    },
+    {
+        "id": "4095",
+        "name": "Jibanyan Santa",
+        "rank": "ss"
+    },
+    {
+        "id": "4096",
+        "name": "Her Eggcelency",
+        "rank": "s"
+    },
+    {
+        "id": "4097",
+        "name": "Koalanyan",
+        "rank": "ss"
+    },
+    {
+        "id": "4098",
+        "name": "Mee 2",
+        "rank": "b"
+    },
+    {
+        "id": "4099",
+        "name": "Molar Petite",
+        "rank": "c"
+    },
+    {
+        "id": "4100",
+        "name": "Jackomasan",
+        "rank": "a"
+    },
+    {
+        "id": "4101",
+        "name": "Komiger",
+        "rank": "a"
+    },
+    {
+        "id": "4102",
+        "name": "Buttered Blue",
+        "rank": "e"
+    },
+    {
+        "id": "4103",
+        "name": "Benzaiten",
+        "rank": "ss"
+    },
+    {
+        "id": "4104",
+        "name": "Jumbelina",
+        "rank": "d"
+    },
+    {
+        "id": "4105",
+        "name": "Pookivil",
+        "rank": "a"
+    },
+    {
+        "id": "4106",
+        "name": "Krystal Fox",
+        "rank": "d"
+    },
+    {
+        "id": "4107",
+        "name": "Cue-Tee",
+        "rank": "d"
+    },
+    {
+        "id": "4108",
+        "name": "Demandi",
+        "rank": "b"
+    },
+    {
+        "id": "4109",
+        "name": "Skelebella",
+        "rank": "b"
+    },
+    {
+        "id": "4110",
+        "name": "Life-is-Parfait",
+        "rank": "b"
+    },
+    {
+        "id": "4111",
+        "name": "Pandora",
+        "rank": "s"
+    },
+    {
+        "id": "4112",
+        "name": "Prancy-nyan",
+        "rank": "ss"
+    },
+    {
+        "id": "4113",
+        "name": "Jetnyan",
+        "rank": "b"
+    },
+    {
+        "id": "4114",
+        "name": "Hello Kitty",
+        "rank": "s"
+    },
+    {
+        "id": "4115",
+        "name": "Hello Kitty SS",
+        "rank": "ss"
+    },
+    {
+        "id": "4116",
+        "name": "Mimmy",
+        "rank": "b"
+    },
+    {
+        "id": "4117",
+        "name": "Kittynyan",
+        "rank": "a"
+    },
+    {
+        "id": "4118",
+        "name": "Komamelody",
+        "rank": "a"
+    },
+    {
+        "id": "4119",
+        "name": "King Jibanyan",
+        "rank": "a"
+    },
+    {
+        "id": "4120",
+        "name": "Drizzelda",
+        "rank": "c"
+    },
+    {
+        "id": "4121",
+        "name": "Whirlweasel",
+        "rank": "a"
+    },
+    {
+        "id": "4122",
+        "name": "Pinkipoo",
+        "rank": "b"
+    },
+    {
+        "id": "4123",
+        "name": "Slackoon",
+        "rank": "c"
+    },
+    {
+        "id": "4124",
+        "name": "Gabby",
+        "rank": "ss"
+    },
+    {
+        "id": "4125",
+        "name": "KJ",
+        "rank": "ss"
+    },
+    {
+        "id": "4126",
+        "name": "Panja Pupil",
+        "rank": "d"
+    },
+    {
+        "id": "4127",
+        "name": "Panja Pro",
+        "rank": "b"
+    },
+    {
+        "id": "4128",
+        "name": "Jibanyan T",
+        "rank": "a"
+    },
+    {
+        "id": "4129",
+        "name": "Komasan T",
+        "rank": "a"
+    },
+    {
+        "id": "4130",
+        "name": "Deadcool",
+        "rank": "ss"
+    },
+    {
+        "id": "4131",
+        "name": "Meopatra",
+        "rank": "s"
+    },
+    {
+        "id": "4132",
+        "name": "Singcada",
+        "rank": "b"
+    },
+    {
+        "id": "4133",
+        "name": "Hagemaru Hageda",
+        "rank": "b"
+    },
+    {
+        "id": "4134",
+        "name": "Hagemaru Hageda A",
+        "rank": "a"
+    },
+    {
+        "id": "4135",
+        "name": "Holey Moley",
+        "rank": "ss"
+    },
+    {
+        "id": "4136",
+        "name": "Nekidspeed",
+        "rank": "c"
+    },
+    {
+        "id": "4137",
+        "name": "Shawn Froste",
+        "rank": "a"
+    },
+    {
+        "id": "4138",
+        "name": "Kakusei Fubuki",
+        "rank": "ss"
+    },
+    {
+        "id": "4139",
+        "name": "Aladdin",
+        "rank": "s"
+    },
+    {
+        "id": "4140",
+        "name": "Kirene",
+        "rank": "s"
+    },
+    {
+        "id": "4141",
+        "name": "Blizzie",
+        "rank": "ss"
+    },
+    {
+        "id": "4142",
+        "name": "Twirly Pie",
+        "rank": "e"
+    },
+    {
+        "id": "4143",
+        "name": "Goku Fubuki-hime",
+        "rank": "sss"
+    },
+    {
+        "id": "4144",
+        "name": "Bakulia",
+        "rank": "b"
+    },
+    {
+        "id": "4145",
+        "name": "Komasan B",
+        "rank": "b"
+    },
+    {
+        "id": "4146",
+        "name": "Punijiro",
+        "rank": "a"
+    },
+    {
+        "id": "4147",
+        "name": "Jibanyan (Shadow)",
+        "rank": "ss"
+    },
+    {
+        "id": "4148",
+        "name": "Komasan (Light)",
+        "rank": "s"
+    },
+    {
+        "id": "4149",
+        "name": "Armorterasu",
+        "rank": "ss"
+    },
+    {
+        "id": "4150",
+        "name": "Seirei Banbarayar",
+        "rank": "sss"
+    },
+    {
+        "id": "4151",
+        "name": "Neko-Musume",
+        "rank": "a"
+    },
+    {
+        "id": "4152",
+        "name": "Neko-Musume S",
+        "rank": "s"
+    },
+    {
+        "id": "4153",
+        "name": "Kitaronyan",
+        "rank": "ss"
+    },
+    {
+        "id": "4154",
+        "name": "Kakusei Puninyan",
+        "rank": "ss"
+    },
+    {
+        "id": "4155",
+        "name": "Stinkeye",
+        "rank": "c"
+    },
+    {
+        "id": "4156",
+        "name": "Mayonna",
+        "rank": "b"
+    },
+    {
+        "id": "4157",
+        "name": "Princess Melonia",
+        "rank": "ss"
+    },
+    {
+        "id": "4158",
+        "name": "Treasure Jibanyan Gold",
+        "rank": "ss"
+    },
+    {
+        "id": "4159",
+        "name": "Treasure Komasan Gold",
+        "rank": "ss"
+    },
+    {
+        "id": "4160",
+        "name": "Dazzabel",
+        "rank": "e"
+    },
+    {
+        "id": "4161",
+        "name": "Jibanyan (Light)",
+        "rank": "s"
+    },
+    {
+        "id": "4162",
+        "name": "Junior",
+        "rank": "a"
+    },
+    {
+        "id": "4163",
+        "name": "Komasan (Shadow)",
+        "rank": "ss"
+    },
+    {
+        "id": "4164",
+        "name": "Leggly",
+        "rank": "e"
+    },
+    {
+        "id": "4165",
+        "name": "Crystal Netaballerina",
+        "rank": "sss"
+    },
+    {
+        "id": "4166",
+        "name": "Valentin Eisner",
+        "rank": "a"
+    },
+    {
+        "id": "4167",
+        "name": "Hiura S",
+        "rank": "s"
+    },
+    {
+        "id": "4168",
+        "name": "Hawk",
+        "rank": "b"
+    },
+    {
+        "id": "4169",
+        "name": "Jibanyan Version Hawk",
+        "rank": "s"
+    },
+    {
+        "id": "4170",
+        "name": "Cadable",
+        "rank": "c"
+    },
+    {
+        "id": "4171",
+        "name": "Zest-a-Minute",
+        "rank": "d"
+    },
+    {
+        "id": "4172",
+        "name": "Katrielle",
+        "rank": "b"
+    },
+    {
+        "id": "4173",
+        "name": "Komajiro (Light)",
+        "rank": "s"
+    },
+    {
+        "id": "4174",
+        "name": "Terra",
+        "rank": "ss"
+    },
+    {
+        "id": "4175",
+        "name": "Y'shtola",
+        "rank": "a"
+    },
+    {
+        "id": "4176",
+        "name": "Rattelle",
+        "rank": "c"
+    },
+    {
+        "id": "4177",
+        "name": "Pupsicle",
+        "rank": "e"
+    },
+    {
+        "id": "4178",
+        "name": "Fubuki-hime Santa",
+        "rank": "sss"
+    },
+    {
+        "id": "4179",
+        "name": "Pop'n Nekomata",
+        "rank": "s"
+    },
+    {
+        "id": "4180",
+        "name": "Kukuri-hime",
+        "rank": "ss"
+    },
+    {
+        "id": "4181",
+        "name": "Gusto",
+        "rank": "a"
+    },
+    {
+        "id": "4182",
+        "name": "Kappa (Salaryman)",
+        "rank": "b"
+    },
+    {
+        "id": "4183",
+        "name": "Kaibyou Kamaitachi",
+        "rank": "s"
+    },
+    {
+        "id": "4184",
+        "name": "Petty-Cake",
+        "rank": "e"
+    },
+    {
+        "id": "4185",
+        "name": "Komajiro (Shadow)",
+        "rank": "ss"
+    },
+    {
+        "id": "4186",
+        "name": "Runsure",
+        "rank": "d"
+    },
+    {
+        "id": "4187",
+        "name": "Red Paws",
+        "rank": "ss"
+    },
+    {
+        "id": "4188",
+        "name": "Swirlious Omai",
+        "rank": "ss"
+    },
+    {
+        "id": "4189",
+        "name": "Li Hao",
+        "rank": "s"
+    },
+    {
+        "id": "4190",
+        "name": "Shuka",
+        "rank": "z"
+    },
+    {
+        "id": "4191",
+        "name": "Pakkun",
+        "rank": "a"
+    },
+    {
+        "id": "4192",
+        "name": "Kakusei Aladdin",
+        "rank": "ss"
+    },
+    {
+        "id": "4193",
+        "name": "Hoppy-go-Lucky",
+        "rank": "e"
+    },
+    {
+        "id": "4194",
+        "name": "Onsen Komasan",
+        "rank": "sss"
+    },
+    {
+        "id": "4195",
+        "name": "Onsen Komajiro",
+        "rank": "ss"
+    },
+    {
+        "id": "4196",
+        "name": "Doyagari Komasan",
+        "rank": "s"
+    },
+    {
+        "id": "4197",
+        "name": "Shirokuma",
+        "rank": "b"
+    },
+    {
+        "id": "4198",
+        "name": "Cymbalina",
+        "rank": "a"
+    },
+    {
+        "id": "4199",
+        "name": "Hello Kitty (45th Anniversary)",
+        "rank": "sss"
+    },
+    {
+        "id": "4200",
+        "name": "Hello Kitty (Enma)",
+        "rank": "z"
+    },
+    {
+        "id": "4201",
+        "name": "Hyakki-hime (Kuromi)",
+        "rank": "sss"
+    },
+    {
+        "id": "4202",
+        "name": "Kagemaru Ukin",
+        "rank": "c"
+    },
+    {
+        "id": "4203",
+        "name": "Kakusei Fubuki-hime Sho Kyo",
+        "rank": "ss"
+    },
+    {
+        "id": "4204",
+        "name": "Pandora",
+        "rank": "a"
+    },
+    {
+        "id": "4205",
+        "name": "Kakusei Pandora",
+        "rank": "s"
+    },
+    {
+        "id": "4206",
+        "name": "Mana",
+        "rank": "s"
+    },
+    {
+        "id": "4207",
+        "name": "Kakusei Mana",
+        "rank": "ss"
+    },
+    {
+        "id": "4208",
+        "name": "Princess Asya",
+        "rank": "ss"
+    },
+    {
+        "id": "4209",
+        "name": "Puni-gami",
+        "rank": "z"
+    },
+    {
+        "id": "4210",
+        "name": "Momiji-hime",
+        "rank": "sss"
+    },
+    {
+        "id": "4211",
+        "name": "Kakusei Punijiro",
+        "rank": "ss"
+    },
+    {
+        "id": "4212",
+        "name": "Kakusei Punikoma",
+        "rank": "ss"
+    },
+    {
+        "id": "4213",
+        "name": "Majokko Fubuki-hime",
+        "rank": "sss"
+    },
+    {
+        "id": "4214",
+        "name": "Halloween Jibanyan",
+        "rank": "sss"
+    },
+    {
+        "id": "4215",
+        "name": "Shou Akuma Komasan",
+        "rank": "ss"
+    },
+    {
+        "id": "4216",
+        "name": "Shou Akuma Komajiro",
+        "rank": "ss"
+    },
+    {
+        "id": "4217",
+        "name": "Kakusei Ame-onna",
+        "rank": "s"
+    },
+    {
+        "id": "4218",
+        "name": "Shantotto",
+        "rank": "s"
+    },
+    {
+        "id": "4219",
+        "name": "Onion Knight",
+        "rank": "a"
+    },
+    {
+        "id": "4220",
+        "name": "Kirameku Hyouyoku Juushinka Fubuki-hime",
+        "rank": "sss"
+    },
+    {
+        "id": "4221",
+        "name": "Manmaru Tsukiyo Juushinka Komasan",
+        "rank": "ss"
+    },
+    {
+        "id": "4222",
+        "name": "Senjuneko Juushinka Jibanyan",
+        "rank": "ss"
+    },
+    {
+        "id": "4223",
+        "name": "Komami",
+        "rank": "z"
+    },
+    {
+        "id": "4224",
+        "name": "Kawataro",
+        "rank": "s"
+    },
+    {
+        "id": "4225",
+        "name": "Little Kommander",
+        "rank": "sss"
+    },
+    {
+        "id": "4226",
+        "name": "Komadillo",
+        "rank": "ss"
+    },
+    {
+        "id": "4227",
+        "name": "Sandayuu Koma",
+        "rank": "a"
+    },
+    {
+        "id": "4228",
+        "name": "Oni-hime Kakusei Natsume",
+        "rank": "z"
+    },
+    {
+        "id": "4229",
+        "name": "Hyakki-hime (Shadow)",
+        "rank": "sss"
+    },
+    {
+        "id": "4230",
+        "name": "Kakusei Nekomata",
+        "rank": "ss"
+    },
+    {
+        "id": "4231",
+        "name": "Punkupine",
+        "rank": "s"
+    },
+    {
+        "id": "4232",
+        "name": "Hyakkihiko",
+        "rank": "z"
+    },
+    {
+        "id": "4233",
+        "name": "Oni Hina Shuka",
+        "rank": "zz"
+    },
+    {
+        "id": "4234",
+        "name": "Wakaretaro",
+        "rank": "sss"
+    },
+    {
+        "id": "4235",
+        "name": "Broken Clock",
+        "rank": "sss"
+    },
+    {
+        "id": "4236",
+        "name": "Bluepon",
+        "rank": "ss"
+    },
+    {
+        "id": "4237",
+        "name": "Momo",
+        "rank": "sss"
+    },
+    {
+        "id": "4238",
+        "name": "Masumi Sera",
+        "rank": "z"
+    },
+    {
+        "id": "4239",
+        "name": "Ai Haibara",
+        "rank": "sss"
+    },
+    {
+        "id": "4240",
+        "name": "Chou Kakusei Jibanyan",
+        "rank": "sss"
+    },
+    {
+        "id": "4241",
+        "name": "Chou Kakusei Komasan",
+        "rank": "sss"
+    },
+    {
+        "id": "4242",
+        "name": "Chou Kakusei Komajiro",
+        "rank": "sss"
+    },
+    {
+        "id": "4243",
+        "name": "Ouka no Oni Hime Shuka",
+        "rank": "z"
+    },
+    {
+        "id": "4244",
+        "name": "Kakusei Junior",
+        "rank": "ss"
+    },
+    {
+        "id": "4245",
+        "name": "Bluepon (Kanzentai)",
+        "rank": "sss"
+    },
+    {
+        "id": "4246",
+        "name": "Kappa-chan",
+        "rank": "z"
+    },
+    {
+        "id": "4247",
+        "name": "Omatsurihime",
+        "rank": "z"
+    },
+    {
+        "id": "4248",
+        "name": "Chou Kakusei Kukuri-hime",
+        "rank": "sss"
+    },
+    {
+        "id": "4249",
+        "name": "Narigama",
+        "rank": "ss"
+    },
+    {
+        "id": "4250",
+        "name": "Y-Kakusei Little Kommander",
+        "rank": "z"
+    },
+    {
+        "id": "4251",
+        "name": "Karuma",
+        "rank": "sss"
+    },
+    {
+        "id": "4252",
+        "name": "Nijionna",
+        "rank": "sss"
+    },
+    {
+        "id": "4253",
+        "name": "Good Bouya",
+        "rank": "sss"
+    },
+    {
+        "id": "4254",
+        "name": "Goku Fubuki-hime Shou Kyou",
+        "rank": "sss"
+    },
+    {
+        "id": "4255",
+        "name": "Elzemekia",
+        "rank": "z"
+    },
+    {
+        "id": "4256",
+        "name": "Mofuko",
+        "rank": "sss"
+    },
+    {
+        "id": "4257",
+        "name": "Youma Roco",
+        "rank": "ss"
+    },
+    {
+        "id": "4258",
+        "name": "Roco",
+        "rank": "a"
+    },
+    {
+        "id": "4259",
+        "name": "Mana (Transcension)",
+        "rank": "zz"
+    },
+    {
+        "id": "4260",
+        "name": "Chou Kakusei Alice",
+        "rank": "sss"
+    },
+    {
+        "id": "4261",
+        "name": "Alice",
+        "rank": "ss"
+    },
+    {
+        "id": "4262",
+        "name": "Pandora, Maid of Unbridled Hope (Transcension)",
+        "rank": "z"
+    },
+    {
+        "id": "4263",
+        "name": "Zodiaraia",
+        "rank": "z"
+    },
+    {
+        "id": "4264",
+        "name": "Poo",
+        "rank": "sss"
+    },
+    {
+        "id": "4265",
+        "name": "Momonga Lady",
+        "rank": "sss"
+    },
+    {
+        "id": "4266",
+        "name": "Komami Santa",
+        "rank": "z"
+    },
+    {
+        "id": "4267",
+        "name": "Mamemameinu",
+        "rank": "sss"
+    },
+    {
+        "id": "4268",
+        "name": "Y-Kakusei Momo",
+        "rank": "sss"
+    },
+    {
+        "id": "4269",
+        "name": "Daiou Gun Jibanyan (Shadow)",
+        "rank": "sss"
+    },
+    {
+        "id": "4270",
+        "name": "Jaou Gun Komasan (Shadow)",
+        "rank": "sss"
+    },
+    {
+        "id": "4271",
+        "name": "Elze",
+        "rank": "zz"
+    },
+    {
+        "id": "4272",
+        "name": "Little Kommander Ace",
+        "rank": "z"
+    },
+    {
+        "id": "4273",
+        "name": "Y-Kakusei Komadillo",
+        "rank": "sss"
+    },
+    {
+        "id": "4274",
+        "name": "Kakusei Elizabeth",
+        "rank": "ss"
+    },
+    {
+        "id": "4275",
+        "name": "Elizabeth",
+        "rank": "s"
+    },
+    {
+        "id": "4276",
+        "name": "Captain of the Order of Scraps Disposal, Hawk",
+        "rank": "s"
+    },
+    {
+        "id": "4277",
+        "name": "Daiou Gun Jibanyan",
+        "rank": "sss"
+    },
+    {
+        "id": "4278",
+        "name": "Jaou Gun Komasan",
+        "rank": "sss"
+    },
+    {
+        "id": "4279",
+        "name": "Zashiki Kommander",
+        "rank": "sss"
+    },
+    {
+        "id": "4280",
+        "name": "Bi Kapper",
+        "rank": "sss"
+    },
+    {
+        "id": "4281",
+        "name": "Metsuryuutai Karura",
+        "rank": "z"
+    },
+    {
+        "id": "4282",
+        "name": "Metsuryuutai Jibanyan",
+        "rank": "ss"
+    },
+    {
+        "id": "4283",
+        "name": "Ran Mouri",
+        "rank": "sss"
+    },
+    {
+        "id": "4284",
+        "name": "Jaou Gun Bad Bouya",
+        "rank": "sss"
+    },
+    {
+        "id": "4285",
+        "name": "Entsumeshuu Atsugaruru",
+        "rank": "sss"
+    },
+    {
+        "id": "5001",
+        "name": "Hungramps",
+        "rank": "e"
+    },
+    {
+        "id": "5002",
+        "name": "Grainpa",
+        "rank": "b"
+    },
+    {
+        "id": "5003",
+        "name": "Enerfly",
+        "rank": "d"
+    },
+    {
+        "id": "5004",
+        "name": "Enefly",
+        "rank": "d"
+    },
+    {
+        "id": "5005",
+        "name": "Betterfly",
+        "rank": "a"
+    },
+    {
+        "id": "5006",
+        "name": "Peppillon",
+        "rank": "s"
+    },
+    {
+        "id": "5007",
+        "name": "Wiglin",
+        "rank": "e"
+    },
+    {
+        "id": "5008",
+        "name": "Steppa",
+        "rank": "e"
+    },
+    {
+        "id": "5009",
+        "name": "Rhyth",
+        "rank": "d"
+    },
+    {
+        "id": "5010",
+        "name": "Happierre",
+        "rank": "c"
+    },
+    {
+        "id": "5011",
+        "name": "Mama Aura",
+        "rank": "a"
+    },
+    {
+        "id": "5012",
+        "name": "Auntie Heart",
+        "rank": "s"
+    },
+    {
+        "id": "5013",
+        "name": "Elder Bloom",
+        "rank": "s"
+    },
+    {
+        "id": "5014",
+        "name": "Tongus",
+        "rank": "e"
+    },
+    {
+        "id": "5015",
+        "name": "Pallysol",
+        "rank": "e"
+    },
+    {
+        "id": "5016",
+        "name": "Gnomey",
+        "rank": "d"
+    },
+    {
+        "id": "5017",
+        "name": "Ray O'Light",
+        "rank": "c"
+    },
+    {
+        "id": "5018",
+        "name": "Nurse Tongus",
+        "rank": "b"
+    },
+    {
+        "id": "5019",
+        "name": "High Gnomey",
+        "rank": "a"
+    },
+    {
+        "id": "5020",
+        "name": "Pheasanyan",
+        "rank": "b"
+    },
+    {
+        "id": "5021",
+        "name": "Predictabull",
+        "rank": "d"
+    },
+    {
+        "id": "5022",
+        "name": "Unikirin",
+        "rank": "s"
+    },
+    {
+        "id": "5023",
+        "name": "Kizunameko Ben Shi",
+        "rank": "e"
+    },
+    {
+        "id": "5024",
+        "name": "Kizunurse Ben Shi",
+        "rank": "e"
+    },
+    {
+        "id": "5025",
+        "name": "Happierre Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "5026",
+        "name": "Kyryn",
+        "rank": "s"
+    },
+    {
+        "id": "5027",
+        "name": "Robogramps",
+        "rank": "b"
+    },
+    {
+        "id": "5028",
+        "name": "Tomorrow Gal",
+        "rank": "d"
+    },
+    {
+        "id": "5029",
+        "name": "Got It Maid",
+        "rank": "c"
+    },
+    {
+        "id": "5030",
+        "name": "Pearly White",
+        "rank": "b"
+    },
+    {
+        "id": "5031",
+        "name": "Bubble Beth",
+        "rank": "a"
+    },
+    {
+        "id": "5032",
+        "name": "Double Time",
+        "rank": "s"
+    },
+    {
+        "id": "5033",
+        "name": "Lazy Sundae",
+        "rank": "c"
+    },
+    {
+        "id": "5034",
+        "name": "Sonic Bam",
+        "rank": "s"
+    },
+    {
+        "id": "5035",
+        "name": "Sandmeh",
+        "rank": "e"
+    },
+    {
+        "id": "5036",
+        "name": "Mister Sandmeh",
+        "rank": "b"
+    },
+    {
+        "id": "5037",
+        "name": "Ol' Saint Trick",
+        "rank": "c"
+    },
+    {
+        "id": "5038",
+        "name": "Uncle Infinite",
+        "rank": "s"
+    },
+    {
+        "id": "5039",
+        "name": "Smashibull",
+        "rank": "s"
+    },
+    {
+        "id": "5040",
+        "name": "Chocolina",
+        "rank": "ss"
+    },
+    {
+        "id": "5041",
+        "name": "Lil Blue Bathing Hood",
+        "rank": "e"
+    },
+    {
+        "id": "5042",
+        "name": "Amplifly",
+        "rank": "a"
+    },
+    {
+        "id": "5043",
+        "name": "Hungorge",
+        "rank": "b"
+    },
+    {
+        "id": "5044",
+        "name": "Cereal Spiller",
+        "rank": "d"
+    },
+    {
+        "id": "5045",
+        "name": "Greengramps",
+        "rank": "c"
+    },
+    {
+        "id": "5046",
+        "name": "Supoor Hero",
+        "rank": "a"
+    },
+    {
+        "id": "5047",
+        "name": "Flash T. Cash",
+        "rank": "ss"
+    },
+    {
+        "id": "5048",
+        "name": "Ulteria",
+        "rank": "a"
+    },
+    {
+        "id": "5049",
+        "name": "Mocha",
+        "rank": "b"
+    },
+    {
+        "id": "5050",
+        "name": "My Melody",
+        "rank": "a"
+    },
+    {
+        "id": "5051",
+        "name": "My Melody SS",
+        "rank": "ss"
+    },
+    {
+        "id": "5052",
+        "name": "Kelpacabana",
+        "rank": "c"
+    },
+    {
+        "id": "5053",
+        "name": "Fukurokuju",
+        "rank": "ss"
+    },
+    {
+        "id": "5054",
+        "name": "Scarasol",
+        "rank": "a"
+    },
+    {
+        "id": "5055",
+        "name": "Sunao Kan Yo",
+        "rank": "e"
+    },
+    {
+        "id": "5056",
+        "name": "Right Brothers",
+        "rank": "c"
+    },
+    {
+        "id": "5057",
+        "name": "Starrycane",
+        "rank": "b"
+    },
+    {
+        "id": "5058",
+        "name": "Beach-hime",
+        "rank": "ss"
+    },
+    {
+        "id": "5059",
+        "name": "Beddy-Byes",
+        "rank": "ss"
+    },
+    {
+        "id": "5060",
+        "name": "Tongue-Twister",
+        "rank": "c"
+    },
+    {
+        "id": "5061",
+        "name": "Nyanses II",
+        "rank": "ss"
+    },
+    {
+        "id": "5062",
+        "name": "Starwin",
+        "rank": "ss"
+    },
+    {
+        "id": "5063",
+        "name": "Lodo",
+        "rank": "d"
+    },
+    {
+        "id": "5064",
+        "name": "Mr. Blue-Shy",
+        "rank": "c"
+    },
+    {
+        "id": "5065",
+        "name": "Nathan Swift",
+        "rank": "s"
+    },
+    {
+        "id": "5066",
+        "name": "Ponderoo",
+        "rank": "c"
+    },
+    {
+        "id": "5067",
+        "name": "Sinbad",
+        "rank": "ss"
+    },
+    {
+        "id": "5068",
+        "name": "Papa Bolt",
+        "rank": "a"
+    },
+    {
+        "id": "5069",
+        "name": "Chippa",
+        "rank": "c"
+    },
+    {
+        "id": "5070",
+        "name": "Comic Genieus",
+        "rank": "s"
+    },
+    {
+        "id": "5071",
+        "name": "Alpina",
+        "rank": "s"
+    },
+    {
+        "id": "5072",
+        "name": "Tanto",
+        "rank": "s"
+    },
+    {
+        "id": "5073",
+        "name": "Ol' Fortune",
+        "rank": "c"
+    },
+    {
+        "id": "5074",
+        "name": "Medama-Oyaji",
+        "rank": "a"
+    },
+    {
+        "id": "5075",
+        "name": "Kakusei Medama-Oyaji",
+        "rank": "ss"
+    },
+    {
+        "id": "5076",
+        "name": "Konaki Jijii",
+        "rank": "b"
+    },
+    {
+        "id": "5077",
+        "name": "B\u00e9arnaise",
+        "rank": "b"
+    },
+    {
+        "id": "5078",
+        "name": "Sweattuce",
+        "rank": "c"
+    },
+    {
+        "id": "5079",
+        "name": "Omatsu",
+        "rank": "ss"
+    },
+    {
+        "id": "5080",
+        "name": "Supersize Gramps",
+        "rank": "b"
+    },
+    {
+        "id": "5081",
+        "name": "Rosetta Stone",
+        "rank": "ss"
+    },
+    {
+        "id": "5082",
+        "name": "Sandra Fischer",
+        "rank": "b"
+    },
+    {
+        "id": "5083",
+        "name": "Norika S",
+        "rank": "s"
+    },
+    {
+        "id": "5084",
+        "name": "Kakusei Kazemaru",
+        "rank": "ss"
+    },
+    {
+        "id": "5085",
+        "name": "King",
+        "rank": "a"
+    },
+    {
+        "id": "5086",
+        "name": "Kakusei King",
+        "rank": "ss"
+    },
+    {
+        "id": "5087",
+        "name": "Dubbles",
+        "rank": "a"
+    },
+    {
+        "id": "5088",
+        "name": "Odysseynyan",
+        "rank": "s"
+    },
+    {
+        "id": "5089",
+        "name": "Ghostess",
+        "rank": "s"
+    },
+    {
+        "id": "5090",
+        "name": "Crystal Hanasakijii",
+        "rank": "sss"
+    },
+    {
+        "id": "5091",
+        "name": "Evan",
+        "rank": "ss"
+    },
+    {
+        "id": "5092",
+        "name": "Genjuu Kirin",
+        "rank": "ss"
+    },
+    {
+        "id": "5093",
+        "name": "Yuna",
+        "rank": "b"
+    },
+    {
+        "id": "5094",
+        "name": "Zashiki-warashi",
+        "rank": "b"
+    },
+    {
+        "id": "5095",
+        "name": "Gesshin Tsukuyomi",
+        "rank": "sss"
+    },
+    {
+        "id": "5096",
+        "name": "Teastroyer",
+        "rank": "ss"
+    },
+    {
+        "id": "5097",
+        "name": "Reversette",
+        "rank": "a"
+    },
+    {
+        "id": "5098",
+        "name": "Puni Puni Koubachou",
+        "rank": "ss"
+    },
+    {
+        "id": "5099",
+        "name": "Nihon Daihyou Ichihoshi SS",
+        "rank": "ss"
+    },
+    {
+        "id": "5100",
+        "name": "Kakusei Sinbad",
+        "rank": "sss"
+    },
+    {
+        "id": "5101",
+        "name": "Reversa",
+        "rank": "s"
+    },
+    {
+        "id": "5102",
+        "name": "Kachi Kachi Senki",
+        "rank": "sss"
+    },
+    {
+        "id": "5103",
+        "name": "Koma Kaachan",
+        "rank": "z"
+    },
+    {
+        "id": "5104",
+        "name": "Neko II Gold",
+        "rank": "sss"
+    },
+    {
+        "id": "5105",
+        "name": "Gabriel",
+        "rank": "ss"
+    },
+    {
+        "id": "5106",
+        "name": "Chou Kakusei Gabriel",
+        "rank": "sss"
+    },
+    {
+        "id": "5107",
+        "name": "Tokonatsu-hime",
+        "rank": "ss"
+    },
+    {
+        "id": "5108",
+        "name": "Chou Kakusei Puni Puni Koubachou",
+        "rank": "sss"
+    },
+    {
+        "id": "5109",
+        "name": "Aki-okami",
+        "rank": "sss"
+    },
+    {
+        "id": "5110",
+        "name": "Zidane",
+        "rank": "sss"
+    },
+    {
+        "id": "5111",
+        "name": "Hekikakusho Gyuuma",
+        "rank": "ss"
+    },
+    {
+        "id": "5112",
+        "name": "Goraikou Boy",
+        "rank": "z"
+    },
+    {
+        "id": "5113",
+        "name": "Doku Obaa",
+        "rank": "sss"
+    },
+    {
+        "id": "5114",
+        "name": "Gentotsu Nurse",
+        "rank": "ss"
+    },
+    {
+        "id": "5115",
+        "name": "Mangetsu Otoko",
+        "rank": "sss"
+    },
+    {
+        "id": "5116",
+        "name": "Hanasakamaru",
+        "rank": "zz"
+    },
+    {
+        "id": "5117",
+        "name": "Majigireeno",
+        "rank": "ss"
+    },
+    {
+        "id": "5118",
+        "name": "Jikannaidaa",
+        "rank": "ss"
+    },
+    {
+        "id": "5119",
+        "name": "Jimi Nadine",
+        "rank": "ss"
+    },
+    {
+        "id": "5120",
+        "name": "Orihime Tsukuyomi",
+        "rank": "zz"
+    },
+    {
+        "id": "5121",
+        "name": "Kamen Rider Ex-Aid",
+        "rank": "ss"
+    },
+    {
+        "id": "5122",
+        "name": "Amaokami",
+        "rank": "sss"
+    },
+    {
+        "id": "5123",
+        "name": "Gettenki Tsukuyomi",
+        "rank": "z"
+    },
+    {
+        "id": "5124",
+        "name": "Shining Boy Mataro",
+        "rank": "sss"
+    },
+    {
+        "id": "5125",
+        "name": "Maruo",
+        "rank": "sss"
+    },
+    {
+        "id": "5126",
+        "name": "Benzaiten (Alt. Transcension)",
+        "rank": "z"
+    },
+    {
+        "id": "5127",
+        "name": "Binah",
+        "rank": "sss"
+    },
+    {
+        "id": "5128",
+        "name": "Benzaiten",
+        "rank": "s"
+    },
+    {
+        "id": "5129",
+        "name": "T-Dine",
+        "rank": "zz"
+    },
+    {
+        "id": "5130",
+        "name": "T-Dus (Shonen)",
+        "rank": "sss"
+    },
+    {
+        "id": "5131",
+        "name": "Y-Kakusei Jumbo Tomomichi-kun",
+        "rank": "sss"
+    },
+    {
+        "id": "5132",
+        "name": "Jaou Gun Omatsu",
+        "rank": "z"
+    },
+    {
+        "id": "5133",
+        "name": "Daiou Gun Genjuu Kirin",
+        "rank": "z"
+    },
+    {
+        "id": "5134",
+        "name": "Last T-Dine",
+        "rank": "zz"
+    },
+    {
+        "id": "5135",
+        "name": "T-Dus",
+        "rank": "sss"
+    },
+    {
+        "id": "5136",
+        "name": "The Grizzly's Sin, King",
+        "rank": "z"
+    },
+    {
+        "id": "5137",
+        "name": "Elaine",
+        "rank": "ss"
+    },
+    {
+        "id": "5138",
+        "name": "Daiou Gun Yamaokami",
+        "rank": "z"
+    },
+    {
+        "id": "5139",
+        "name": "Terramin",
+        "rank": "sss"
+    },
+    {
+        "id": "5140",
+        "name": "Ashura Gilfer",
+        "rank": "z"
+    },
+    {
+        "id": "5141",
+        "name": "Subaru Okiya",
+        "rank": "zz"
+    },
+    {
+        "id": "5142",
+        "name": "Fuuko Kirisawa",
+        "rank": "sss"
+    },
+    {
+        "id": "5143",
+        "name": "Daiou Gun Ikkaku",
+        "rank": "z"
+    },
+    {
+        "id": "6001",
+        "name": "Payn",
+        "rank": "c"
+    },
+    {
+        "id": "6002",
+        "name": "Agon",
+        "rank": "b"
+    },
+    {
+        "id": "6003",
+        "name": "Negatibuzz",
+        "rank": "e"
+    },
+    {
+        "id": "6004",
+        "name": "Dimmy",
+        "rank": "e"
+    },
+    {
+        "id": "6005",
+        "name": "Blandon",
+        "rank": "b"
+    },
+    {
+        "id": "6006",
+        "name": "Nul",
+        "rank": "a"
+    },
+    {
+        "id": "6007",
+        "name": "Hidabat",
+        "rank": "d"
+    },
+    {
+        "id": "6008",
+        "name": "Tengloom",
+        "rank": "c"
+    },
+    {
+        "id": "6009",
+        "name": "Nird",
+        "rank": "b"
+    },
+    {
+        "id": "6010",
+        "name": "Suspicioni",
+        "rank": "d"
+    },
+    {
+        "id": "6011",
+        "name": "Tantroni",
+        "rank": "d"
+    },
+    {
+        "id": "6012",
+        "name": "Contrarioni",
+        "rank": "b"
+    },
+    {
+        "id": "6013",
+        "name": "Timidevil",
+        "rank": "a"
+    },
+    {
+        "id": "6014",
+        "name": "Beelzebold",
+        "rank": "s"
+    },
+    {
+        "id": "6015",
+        "name": "Count Cavity",
+        "rank": "s"
+    },
+    {
+        "id": "6016",
+        "name": "K'mon-K'mon",
+        "rank": "c"
+    },
+    {
+        "id": "6017",
+        "name": "Usapyon",
+        "rank": "b"
+    },
+    {
+        "id": "6018",
+        "name": "Dracunyan",
+        "rank": "b"
+    },
+    {
+        "id": "6019",
+        "name": "Darkyubi",
+        "rank": "s"
+    },
+    {
+        "id": "6020",
+        "name": "Zazel",
+        "rank": "s"
+    },
+    {
+        "id": "6021",
+        "name": "Mynimo",
+        "rank": "d"
+    },
+    {
+        "id": "6022",
+        "name": "Poofessor",
+        "rank": "s"
+    },
+    {
+        "id": "6023",
+        "name": "Slimamander",
+        "rank": "b"
+    },
+    {
+        "id": "6024",
+        "name": "Slimamander S",
+        "rank": "s"
+    },
+    {
+        "id": "6025",
+        "name": "Eyellure",
+        "rank": "s"
+    },
+    {
+        "id": "6026",
+        "name": "Usapyon Zhongda",
+        "rank": "b"
+    },
+    {
+        "id": "6027",
+        "name": "Soruka",
+        "rank": "s"
+    },
+    {
+        "id": "6028",
+        "name": "Eyesoar",
+        "rank": "a"
+    },
+    {
+        "id": "6029",
+        "name": "Captain Thunder",
+        "rank": "ss"
+    },
+    {
+        "id": "6030",
+        "name": "Hidabat Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "6031",
+        "name": "Leadoni",
+        "rank": "e"
+    },
+    {
+        "id": "6032",
+        "name": "Treetter",
+        "rank": "e"
+    },
+    {
+        "id": "6033",
+        "name": "Hack King",
+        "rank": "a"
+    },
+    {
+        "id": "6034",
+        "name": "Lil Kappa",
+        "rank": "b"
+    },
+    {
+        "id": "6035",
+        "name": "Gorgeous Ambassador",
+        "rank": "s"
+    },
+    {
+        "id": "6036",
+        "name": "Dr. E. Raser",
+        "rank": "s"
+    },
+    {
+        "id": "6037",
+        "name": "Rocky Badboya",
+        "rank": "c"
+    },
+    {
+        "id": "6038",
+        "name": "Crook-a-doodle",
+        "rank": "c"
+    },
+    {
+        "id": "6039",
+        "name": "Tut 'n' K'mon",
+        "rank": "s"
+    },
+    {
+        "id": "6040",
+        "name": "Hinozall",
+        "rank": "s"
+    },
+    {
+        "id": "6041",
+        "name": "Hinozall Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "6042",
+        "name": "Hakumen no Mono",
+        "rank": "ss"
+    },
+    {
+        "id": "6043",
+        "name": "Tofupyon",
+        "rank": "a"
+    },
+    {
+        "id": "6044",
+        "name": "Sunk'nsoul",
+        "rank": "c"
+    },
+    {
+        "id": "6045",
+        "name": "Ed Zoff",
+        "rank": "s"
+    },
+    {
+        "id": "6046",
+        "name": "Crummy Mummy",
+        "rank": "b"
+    },
+    {
+        "id": "6047",
+        "name": "Bastnetnyan",
+        "rank": "s"
+    },
+    {
+        "id": "6048",
+        "name": "Dr. Nocturne",
+        "rank": "s"
+    },
+    {
+        "id": "6049",
+        "name": "Neighfarious",
+        "rank": "a"
+    },
+    {
+        "id": "6050",
+        "name": "Awevil",
+        "rank": "s"
+    },
+    {
+        "id": "6051",
+        "name": "Wydeawake",
+        "rank": "e"
+    },
+    {
+        "id": "6052",
+        "name": "Messyrai",
+        "rank": "e"
+    },
+    {
+        "id": "6053",
+        "name": "Horizontail",
+        "rank": "b"
+    },
+    {
+        "id": "6054",
+        "name": "Kuroi Jibanyan",
+        "rank": "s"
+    },
+    {
+        "id": "6055",
+        "name": "Kuromi",
+        "rank": "a"
+    },
+    {
+        "id": "6056",
+        "name": "Kuromi S",
+        "rank": "s"
+    },
+    {
+        "id": "6057",
+        "name": "Tyrat",
+        "rank": "c"
+    },
+    {
+        "id": "6058",
+        "name": "Jurojin",
+        "rank": "ss"
+    },
+    {
+        "id": "6059",
+        "name": "Queen Usapyon",
+        "rank": "a"
+    },
+    {
+        "id": "6060",
+        "name": "Bushou Hi no Shin",
+        "rank": "ss"
+    },
+    {
+        "id": "6061",
+        "name": "Teducator",
+        "rank": "ss"
+    },
+    {
+        "id": "6062",
+        "name": "Rongo Swirll",
+        "rank": "ss"
+    },
+    {
+        "id": "6063",
+        "name": "DisliKing",
+        "rank": "c"
+    },
+    {
+        "id": "6064",
+        "name": "Injurnalist",
+        "rank": "c"
+    },
+    {
+        "id": "6065",
+        "name": "Negasus",
+        "rank": "a"
+    },
+    {
+        "id": "6066",
+        "name": "Belfree",
+        "rank": "a"
+    },
+    {
+        "id": "6067",
+        "name": "Lunie",
+        "rank": "s"
+    },
+    {
+        "id": "6068",
+        "name": "Hans Full",
+        "rank": "ss"
+    },
+    {
+        "id": "6069",
+        "name": "Usapyon B",
+        "rank": "b"
+    },
+    {
+        "id": "6070",
+        "name": "Misterr Typoo",
+        "rank": "c"
+    },
+    {
+        "id": "6071",
+        "name": "Xene",
+        "rank": "s"
+    },
+    {
+        "id": "6072",
+        "name": "Kakusei Gran",
+        "rank": "ss"
+    },
+    {
+        "id": "6073",
+        "name": "Gazelle",
+        "rank": "a"
+    },
+    {
+        "id": "6074",
+        "name": "Gimme",
+        "rank": "a"
+    },
+    {
+        "id": "6075",
+        "name": "Carniboy",
+        "rank": "b"
+    },
+    {
+        "id": "6076",
+        "name": "Wobblewok",
+        "rank": "ss"
+    },
+    {
+        "id": "6077",
+        "name": "Micchy",
+        "rank": "a"
+    },
+    {
+        "id": "6078",
+        "name": "Hanzawa-san",
+        "rank": "a"
+    },
+    {
+        "id": "6079",
+        "name": "Retreeter",
+        "rank": "b"
+    },
+    {
+        "id": "6080",
+        "name": "Toranka",
+        "rank": "s"
+    },
+    {
+        "id": "6081",
+        "name": "Ake",
+        "rank": "e"
+    },
+    {
+        "id": "6082",
+        "name": "Letsbifrenz",
+        "rank": "a"
+    },
+    {
+        "id": "6083",
+        "name": "Kanekui Hime",
+        "rank": "ss"
+    },
+    {
+        "id": "6084",
+        "name": "Greesel",
+        "rank": "a"
+    },
+    {
+        "id": "6085",
+        "name": "Indexter",
+        "rank": "d"
+    },
+    {
+        "id": "6086",
+        "name": "Peter Pancake",
+        "rank": "a"
+    },
+    {
+        "id": "6087",
+        "name": "Doescalibur",
+        "rank": "ss"
+    },
+    {
+        "id": "6088",
+        "name": "Abodabat",
+        "rank": "a"
+    },
+    {
+        "id": "6089",
+        "name": "Goku Namahage",
+        "rank": "sss"
+    },
+    {
+        "id": "6090",
+        "name": "Kakusei Kuroi Jibanyan",
+        "rank": "ss"
+    },
+    {
+        "id": "6091",
+        "name": "Fukurou",
+        "rank": "ss"
+    },
+    {
+        "id": "6092",
+        "name": "Glitzy Bones",
+        "rank": "ss"
+    },
+    {
+        "id": "6093",
+        "name": "Elliot Ember",
+        "rank": "s"
+    },
+    {
+        "id": "6094",
+        "name": "Chou Kakusei Haizaki",
+        "rank": "sss"
+    },
+    {
+        "id": "6095",
+        "name": "Maizo Tokugawa",
+        "rank": "a"
+    },
+    {
+        "id": "6096",
+        "name": "Kaped Komander",
+        "rank": "s"
+    },
+    {
+        "id": "6097",
+        "name": "Shinmagunjin Fukurou",
+        "rank": "ss"
+    },
+    {
+        "id": "6098",
+        "name": "Inari",
+        "rank": "a"
+    },
+    {
+        "id": "6099",
+        "name": "Kirisaki Joker",
+        "rank": "b"
+    },
+    {
+        "id": "6100",
+        "name": "Bellion",
+        "rank": "s"
+    },
+    {
+        "id": "6101",
+        "name": "Unchikuma (Light)",
+        "rank": "ss"
+    },
+    {
+        "id": "6102",
+        "name": "Mitsumata Mizuchi (Shadow)",
+        "rank": "s"
+    },
+    {
+        "id": "6103",
+        "name": "Hyper Micchy",
+        "rank": "s"
+    },
+    {
+        "id": "6104",
+        "name": "Hi no Shin (Shadow)",
+        "rank": "sss"
+    },
+    {
+        "id": "6105",
+        "name": "Golbez",
+        "rank": "ss"
+    },
+    {
+        "id": "6106",
+        "name": "Chi Ma Tree",
+        "rank": "s"
+    },
+    {
+        "id": "6107",
+        "name": "Allnyta",
+        "rank": "b"
+    },
+    {
+        "id": "6108",
+        "name": "Tamamo",
+        "rank": "s"
+    },
+    {
+        "id": "6109",
+        "name": "Suu-san",
+        "rank": "c"
+    },
+    {
+        "id": "6110",
+        "name": "Yomashouzoku Nurarihyon",
+        "rank": "sss"
+    },
+    {
+        "id": "6111",
+        "name": "Snobetty",
+        "rank": "b"
+    },
+    {
+        "id": "6112",
+        "name": "Umataro",
+        "rank": "c"
+    },
+    {
+        "id": "6113",
+        "name": "Crystal Unchikuma",
+        "rank": "sss"
+    },
+    {
+        "id": "6114",
+        "name": "Ogami Kan Katai",
+        "rank": "ss"
+    },
+    {
+        "id": "6115",
+        "name": "Nihon Daihyou Haizaki",
+        "rank": "sss"
+    },
+    {
+        "id": "6116",
+        "name": "Tatarigitsune",
+        "rank": "s"
+    },
+    {
+        "id": "6117",
+        "name": "Chokichi",
+        "rank": "c"
+    },
+    {
+        "id": "6118",
+        "name": "Tooru Amuro",
+        "rank": "z"
+    },
+    {
+        "id": "6119",
+        "name": "Count Zapaway",
+        "rank": "c"
+    },
+    {
+        "id": "6120",
+        "name": "Hans Galore",
+        "rank": "ss"
+    },
+    {
+        "id": "6121",
+        "name": "Grumpus Khan",
+        "rank": "d"
+    },
+    {
+        "id": "6122",
+        "name": "Gutsy Bones",
+        "rank": "a"
+    },
+    {
+        "id": "6123",
+        "name": "Daigunshi Katai",
+        "rank": "ss"
+    },
+    {
+        "id": "6124",
+        "name": "Underworld Rebel Lucifer (Ascension)",
+        "rank": "s"
+    },
+    {
+        "id": "6125",
+        "name": "Lucifer (Transcension)",
+        "rank": "z"
+    },
+    {
+        "id": "6126",
+        "name": "Moskevil",
+        "rank": "c"
+    },
+    {
+        "id": "6127",
+        "name": "Kuroi Kyubi",
+        "rank": "sss"
+    },
+    {
+        "id": "6128",
+        "name": "Kaguya USApyon",
+        "rank": "ss"
+    },
+    {
+        "id": "6129",
+        "name": "Ja-shin Kachi Kachi",
+        "rank": "z"
+    },
+    {
+        "id": "6130",
+        "name": "Kakusei Gabunyan",
+        "rank": "ss"
+    },
+    {
+        "id": "6131",
+        "name": "Squall",
+        "rank": "sss"
+    },
+    {
+        "id": "6132",
+        "name": "Emperor",
+        "rank": "ss"
+    },
+    {
+        "id": "6133",
+        "name": "Soyokusho Ran",
+        "rank": "sss"
+    },
+    {
+        "id": "6134",
+        "name": "Chou Kakusei Dondoro",
+        "rank": "sss"
+    },
+    {
+        "id": "6135",
+        "name": "Shinma Kaira",
+        "rank": "sss"
+    },
+    {
+        "id": "6136",
+        "name": "Whitening Hakushaku",
+        "rank": "ss"
+    },
+    {
+        "id": "6137",
+        "name": "Bousou Nurarihyon",
+        "rank": "z"
+    },
+    {
+        "id": "6138",
+        "name": "Zazelmare",
+        "rank": "sss"
+    },
+    {
+        "id": "6139",
+        "name": "Teniamaru",
+        "rank": "sss"
+    },
+    {
+        "id": "6140",
+        "name": "Dr. Break",
+        "rank": "sss"
+    },
+    {
+        "id": "6141",
+        "name": "Mist Shadow",
+        "rank": "z"
+    },
+    {
+        "id": "6142",
+        "name": "Big Black",
+        "rank": "ss"
+    },
+    {
+        "id": "6143",
+        "name": "Black Army",
+        "rank": "a"
+    },
+    {
+        "id": "6144",
+        "name": "Chou Kakusei Fukurou",
+        "rank": "sss"
+    },
+    {
+        "id": "6145",
+        "name": "Jigoku Assassin",
+        "rank": "sss"
+    },
+    {
+        "id": "6146",
+        "name": "Dark Assassin",
+        "rank": "ss"
+    },
+    {
+        "id": "6147",
+        "name": "Partykoumori",
+        "rank": "sss"
+    },
+    {
+        "id": "6148",
+        "name": "Kiramaro",
+        "rank": "ss"
+    },
+    {
+        "id": "6149",
+        "name": "Bibiriel",
+        "rank": "sss"
+    },
+    {
+        "id": "6150",
+        "name": "Amazing Micchy",
+        "rank": "ss"
+    },
+    {
+        "id": "6151",
+        "name": "Death Conductor",
+        "rank": "ss"
+    },
+    {
+        "id": "6152",
+        "name": "Shocker Combatant",
+        "rank": "b"
+    },
+    {
+        "id": "6153",
+        "name": "Shadow Moon",
+        "rank": "sss"
+    },
+    {
+        "id": "6154",
+        "name": "Positibun",
+        "rank": "ss"
+    },
+    {
+        "id": "6155",
+        "name": "Deep Shadow Galaxy",
+        "rank": "zz"
+    },
+    {
+        "id": "6156",
+        "name": "The Home",
+        "rank": "sss"
+    },
+    {
+        "id": "6157",
+        "name": "Hinohikari",
+        "rank": "sss"
+    },
+    {
+        "id": "6158",
+        "name": "Bousou Inchou Kantottsu",
+        "rank": "z"
+    },
+    {
+        "id": "6159",
+        "name": "Dame Dedtime",
+        "rank": "sss"
+    },
+    {
+        "id": "6160",
+        "name": "Youma Kekki Nurarihyon",
+        "rank": "zz"
+    },
+    {
+        "id": "6161",
+        "name": "Sherlock Holmes",
+        "rank": "ss"
+    },
+    {
+        "id": "6162",
+        "name": "Chou Kakusei Holmes",
+        "rank": "sss"
+    },
+    {
+        "id": "6163",
+        "name": "Nego",
+        "rank": "sss"
+    },
+    {
+        "id": "6164",
+        "name": "Nurari Shishou",
+        "rank": "z"
+    },
+    {
+        "id": "6165",
+        "name": "Jaou Gun Hyper Micchy",
+        "rank": "sss"
+    },
+    {
+        "id": "6166",
+        "name": "Deep Shadow Zodiac",
+        "rank": "z"
+    },
+    {
+        "id": "6167",
+        "name": "Black Demon",
+        "rank": "ss"
+    },
+    {
+        "id": "6168",
+        "name": "Leader of the Ten Commandments, Meliodas",
+        "rank": "zz"
+    },
+    {
+        "id": "6169",
+        "name": "The Boar's Sin, Merlin",
+        "rank": "sss"
+    },
+    {
+        "id": "6170",
+        "name": "Jaou Gun Tsukinoyami",
+        "rank": "z"
+    },
+    {
+        "id": "6171",
+        "name": "Deep Shadow Ancient",
+        "rank": "z"
+    },
+    {
+        "id": "6172",
+        "name": "Terraozma",
+        "rank": "zz"
+    },
+    {
+        "id": "6173",
+        "name": "Depuropusu",
+        "rank": "ss"
+    },
+    {
+        "id": "6174",
+        "name": "Shiryuu",
+        "rank": "zz"
+    },
+    {
+        "id": "6175",
+        "name": "MT Bouncer",
+        "rank": "zz"
+    },
+    {
+        "id": "6176",
+        "name": "Jaou Gun Fukurou",
+        "rank": "z"
+    },
+    {
+        "id": "6177",
+        "name": "Jaou Gun Yagyou",
+        "rank": "z"
+    },
+    {
+        "id": "7001",
+        "name": "Buhu",
+        "rank": "e"
+    },
+    {
+        "id": "7002",
+        "name": "Flumpy",
+        "rank": "c"
+    },
+    {
+        "id": "7003",
+        "name": "Skreek",
+        "rank": "a"
+    },
+    {
+        "id": "7004",
+        "name": "Manjimutt",
+        "rank": "e"
+    },
+    {
+        "id": "7005",
+        "name": "Multimutt",
+        "rank": "b"
+    },
+    {
+        "id": "7006",
+        "name": "Sir Berus",
+        "rank": "a"
+    },
+    {
+        "id": "7007",
+        "name": "Peckpocket",
+        "rank": "e"
+    },
+    {
+        "id": "7008",
+        "name": "Rockabelly",
+        "rank": "d"
+    },
+    {
+        "id": "7009",
+        "name": "Chatalie",
+        "rank": "d"
+    },
+    {
+        "id": "7010",
+        "name": "Nagatha",
+        "rank": "c"
+    },
+    {
+        "id": "7011",
+        "name": "Grumples",
+        "rank": "b"
+    },
+    {
+        "id": "7012",
+        "name": "Everfore",
+        "rank": "s"
+    },
+    {
+        "id": "7013",
+        "name": "Eterna",
+        "rank": "s"
+    },
+    {
+        "id": "7014",
+        "name": "Cheeksqueek",
+        "rank": "c"
+    },
+    {
+        "id": "7015",
+        "name": "Cuttincheez",
+        "rank": "a"
+    },
+    {
+        "id": "7016",
+        "name": "Insomni",
+        "rank": "a"
+    },
+    {
+        "id": "7017",
+        "name": "Sandi",
+        "rank": "s"
+    },
+    {
+        "id": "7018",
+        "name": "Dismarelda",
+        "rank": "d"
+    },
+    {
+        "id": "7019",
+        "name": "Dandoodle",
+        "rank": "s"
+    },
+    {
+        "id": "7020",
+        "name": "Nosirs",
+        "rank": "d"
+    },
+    {
+        "id": "7021",
+        "name": "Papa Windbag",
+        "rank": "c"
+    },
+    {
+        "id": "7022",
+        "name": "Darknyan",
+        "rank": "a"
+    },
+    {
+        "id": "7023",
+        "name": "Sproink",
+        "rank": "b"
+    },
+    {
+        "id": "7024",
+        "name": "Sproink S",
+        "rank": "s"
+    },
+    {
+        "id": "7025",
+        "name": "Furgus",
+        "rank": "e"
+    },
+    {
+        "id": "7026",
+        "name": "Robomutt",
+        "rank": "b"
+    },
+    {
+        "id": "7027",
+        "name": "Arachnia",
+        "rank": "s"
+    },
+    {
+        "id": "7028",
+        "name": "Darknyan Sousou",
+        "rank": "s"
+    },
+    {
+        "id": "7029",
+        "name": "Mass Mutterer",
+        "rank": "ss"
+    },
+    {
+        "id": "7030",
+        "name": "Arachnus Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "7031",
+        "name": "Toiletta",
+        "rank": "c"
+    },
+    {
+        "id": "7032",
+        "name": "Decidevible",
+        "rank": "a"
+    },
+    {
+        "id": "7033",
+        "name": "Little Charrmer",
+        "rank": "s"
+    },
+    {
+        "id": "7034",
+        "name": "Spewart",
+        "rank": "b"
+    },
+    {
+        "id": "7035",
+        "name": "Hairum Scarum",
+        "rank": "a"
+    },
+    {
+        "id": "7036",
+        "name": "Oridjinn",
+        "rank": "s"
+    },
+    {
+        "id": "7037",
+        "name": "Nervous Rex",
+        "rank": "c"
+    },
+    {
+        "id": "7038",
+        "name": "Sesshomaru",
+        "rank": "s"
+    },
+    {
+        "id": "7039",
+        "name": "Kakusei Sesshomaru",
+        "rank": "ss"
+    },
+    {
+        "id": "7040",
+        "name": "Horridjinn",
+        "rank": "s"
+    },
+    {
+        "id": "7041",
+        "name": "Slush",
+        "rank": "e"
+    },
+    {
+        "id": "7042",
+        "name": "Gush",
+        "rank": "d"
+    },
+    {
+        "id": "7043",
+        "name": "Lamedian",
+        "rank": "b"
+    },
+    {
+        "id": "7044",
+        "name": "Drenchetta",
+        "rank": "c"
+    },
+    {
+        "id": "7045",
+        "name": "Rinsin Repete",
+        "rank": "d"
+    },
+    {
+        "id": "7046",
+        "name": "Kuroi Yo-kai Watch",
+        "rank": "ss"
+    },
+    {
+        "id": "7047",
+        "name": "Kuroi Komasan",
+        "rank": "s"
+    },
+    {
+        "id": "7048",
+        "name": "Foiletta",
+        "rank": "a"
+    },
+    {
+        "id": "7049",
+        "name": "Rawry",
+        "rank": "b"
+    },
+    {
+        "id": "7050",
+        "name": "Komanubis",
+        "rank": "s"
+    },
+    {
+        "id": "7051",
+        "name": "Gudetama",
+        "rank": "b"
+    },
+    {
+        "id": "7052",
+        "name": "Gudetama S",
+        "rank": "s"
+    },
+    {
+        "id": "7053",
+        "name": "Droplette",
+        "rank": "e"
+    },
+    {
+        "id": "7054",
+        "name": "Drizzle",
+        "rank": "b"
+    },
+    {
+        "id": "7055",
+        "name": "Bunbundori Sho Ei",
+        "rank": "b"
+    },
+    {
+        "id": "7056",
+        "name": "Hanako-san Sai En",
+        "rank": "c"
+    },
+    {
+        "id": "7057",
+        "name": "Hurchin",
+        "rank": "d"
+    },
+    {
+        "id": "7058",
+        "name": "Slackerjack",
+        "rank": "ss"
+    },
+    {
+        "id": "7059",
+        "name": "Re-Q-Perate",
+        "rank": "ss"
+    },
+    {
+        "id": "7060",
+        "name": "Robbinyu",
+        "rank": "b"
+    },
+    {
+        "id": "7061",
+        "name": "Treasure Pest",
+        "rank": "c"
+    },
+    {
+        "id": "7062",
+        "name": "Slax",
+        "rank": "c"
+    },
+    {
+        "id": "7063",
+        "name": "Obocchama",
+        "rank": "a"
+    },
+    {
+        "id": "7064",
+        "name": "Zekkou Kamen",
+        "rank": "ss"
+    },
+    {
+        "id": "7065",
+        "name": "Jude Sharp",
+        "rank": "a"
+    },
+    {
+        "id": "7066",
+        "name": "Han'nin",
+        "rank": "b"
+    },
+    {
+        "id": "7067",
+        "name": "Goku Orochi",
+        "rank": "sss"
+    },
+    {
+        "id": "7068",
+        "name": "Zomboy",
+        "rank": "s"
+    },
+    {
+        "id": "7069",
+        "name": "Ben Tover",
+        "rank": "c"
+    },
+    {
+        "id": "7070",
+        "name": "Narcis II",
+        "rank": "s"
+    },
+    {
+        "id": "7071",
+        "name": "Majin Banbarayar",
+        "rank": "ss"
+    },
+    {
+        "id": "7072",
+        "name": "Gustaf",
+        "rank": "s"
+    },
+    {
+        "id": "7073",
+        "name": "Encore Dead",
+        "rank": "s"
+    },
+    {
+        "id": "7074",
+        "name": "Gentlemutt",
+        "rank": "ss"
+    },
+    {
+        "id": "7075",
+        "name": "Gobson",
+        "rank": "b"
+    },
+    {
+        "id": "7076",
+        "name": "Shikkoku Oni",
+        "rank": "sss"
+    },
+    {
+        "id": "7077",
+        "name": "Kakusei Kuroi Komasan",
+        "rank": "ss"
+    },
+    {
+        "id": "7078",
+        "name": "Shedwin",
+        "rank": "b"
+    },
+    {
+        "id": "7079",
+        "name": "Zom B Chopper Gold",
+        "rank": "ss"
+    },
+    {
+        "id": "7080",
+        "name": "Ban",
+        "rank": "a"
+    },
+    {
+        "id": "7081",
+        "name": "Naked Apron Ban",
+        "rank": "ss"
+    },
+    {
+        "id": "7082",
+        "name": "Furdinand",
+        "rank": "a"
+    },
+    {
+        "id": "7083",
+        "name": "Glumdango",
+        "rank": "b"
+    },
+    {
+        "id": "7084",
+        "name": "Ohana-san",
+        "rank": "a"
+    },
+    {
+        "id": "7085",
+        "name": "Jorogumo (Shadow)",
+        "rank": "sss"
+    },
+    {
+        "id": "7086",
+        "name": "Exdeath",
+        "rank": "s"
+    },
+    {
+        "id": "7087",
+        "name": "Kefka",
+        "rank": "ss"
+    },
+    {
+        "id": "7088",
+        "name": "Yamambaa",
+        "rank": "a"
+    },
+    {
+        "id": "7089",
+        "name": "Percrushionists",
+        "rank": "a"
+    },
+    {
+        "id": "7090",
+        "name": "Crystal Ikemenken",
+        "rank": "sss"
+    },
+    {
+        "id": "7091",
+        "name": "Arachnus",
+        "rank": "s"
+    },
+    {
+        "id": "7092",
+        "name": "Anzen-bouya",
+        "rank": "b"
+    },
+    {
+        "id": "7093",
+        "name": "Dark Master",
+        "rank": "sss"
+    },
+    {
+        "id": "7094",
+        "name": "BaiKING",
+        "rank": "s"
+    },
+    {
+        "id": "7095",
+        "name": "Nihon Daihyou Hiroto",
+        "rank": "ss"
+    },
+    {
+        "id": "7096",
+        "name": "Nihon Daihyou Ichihoshi",
+        "rank": "b"
+    },
+    {
+        "id": "7097",
+        "name": "Nitanita-san",
+        "rank": "b"
+    },
+    {
+        "id": "7098",
+        "name": "Takashi Mitsuhashi",
+        "rank": "a"
+    },
+    {
+        "id": "7099",
+        "name": "Mallice",
+        "rank": "ss"
+    },
+    {
+        "id": "7100",
+        "name": "Danke Sand",
+        "rank": "d"
+    },
+    {
+        "id": "7101",
+        "name": "Goku Orochi Shu Ryu",
+        "rank": "sss"
+    },
+    {
+        "id": "7102",
+        "name": "Jorogumo En Shou",
+        "rank": "s"
+    },
+    {
+        "id": "7103",
+        "name": "Fuumin Chou Sen",
+        "rank": "a"
+    },
+    {
+        "id": "7104",
+        "name": "Wack o' Lantern",
+        "rank": "a"
+    },
+    {
+        "id": "7105",
+        "name": "Kuroi Orochi",
+        "rank": "sss"
+    },
+    {
+        "id": "7106",
+        "name": "Kuroi Bushinyan",
+        "rank": "sss"
+    },
+    {
+        "id": "7107",
+        "name": "Yoki",
+        "rank": "sss"
+    },
+    {
+        "id": "7108",
+        "name": "Gabras",
+        "rank": "ss"
+    },
+    {
+        "id": "7109",
+        "name": "Meido Nohanako",
+        "rank": "sss"
+    },
+    {
+        "id": "7110",
+        "name": "Yami Rinne",
+        "rank": "z"
+    },
+    {
+        "id": "7111",
+        "name": "Alhail",
+        "rank": "a"
+    },
+    {
+        "id": "7112",
+        "name": "Ultimecia",
+        "rank": "s"
+    },
+    {
+        "id": "7113",
+        "name": "Shikakusho Kaichi",
+        "rank": "sss"
+    },
+    {
+        "id": "7114",
+        "name": "Bakera",
+        "rank": "s"
+    },
+    {
+        "id": "7115",
+        "name": "Fujimi Queen",
+        "rank": "sss"
+    },
+    {
+        "id": "7116",
+        "name": "Gentotsu-inchou",
+        "rank": "sss"
+    },
+    {
+        "id": "7117",
+        "name": "Kyouran no Hanako-san",
+        "rank": "sss"
+    },
+    {
+        "id": "7118",
+        "name": "Toilet no Hanako-san",
+        "rank": "ss"
+    },
+    {
+        "id": "7119",
+        "name": "Ikemengyo",
+        "rank": "z"
+    },
+    {
+        "id": "7120",
+        "name": "Umigamidori",
+        "rank": "ss"
+    },
+    {
+        "id": "7121",
+        "name": "Haniberos",
+        "rank": "ss"
+    },
+    {
+        "id": "7122",
+        "name": "Tsuchigumo (Light)",
+        "rank": "sss"
+    },
+    {
+        "id": "7123",
+        "name": "Moguramos",
+        "rank": "sss"
+    },
+    {
+        "id": "7124",
+        "name": "Shuichi Akai",
+        "rank": "zz"
+    },
+    {
+        "id": "7125",
+        "name": "Mamorino Hanako",
+        "rank": "sss"
+    },
+    {
+        "id": "7126",
+        "name": "The Viper",
+        "rank": "sss"
+    },
+    {
+        "id": "7127",
+        "name": "Kamen Rider Kuuga",
+        "rank": "a"
+    },
+    {
+        "id": "7128",
+        "name": "Kamen Rider Kuuga Ultimate Form",
+        "rank": "z"
+    },
+    {
+        "id": "7129",
+        "name": "Kamen Rider Agito",
+        "rank": "ss"
+    },
+    {
+        "id": "7130",
+        "name": "Uoking Dead Final",
+        "rank": "sss"
+    },
+    {
+        "id": "7131",
+        "name": "Uoking Dead",
+        "rank": "ss"
+    },
+    {
+        "id": "7132",
+        "name": "Uruoishittori",
+        "rank": "ss"
+    },
+    {
+        "id": "7133",
+        "name": "Kami Youma Hikakin",
+        "rank": "zz"
+    },
+    {
+        "id": "7134",
+        "name": "Tokai OnAir Bunkei",
+        "rank": "z"
+    },
+    {
+        "id": "7135",
+        "name": "Hikakin",
+        "rank": "s"
+    },
+    {
+        "id": "7136",
+        "name": "Dober Vader",
+        "rank": "z"
+    },
+    {
+        "id": "7137",
+        "name": "Miilacanth",
+        "rank": "sss"
+    },
+    {
+        "id": "7138",
+        "name": "Y-Kakusei Bakera",
+        "rank": "ss"
+    },
+    {
+        "id": "7139",
+        "name": "Y-Kakusei Kyobo Sparta Kyoshi",
+        "rank": "sss"
+    },
+    {
+        "id": "7140",
+        "name": "The Fox's Sin, Ban",
+        "rank": "z"
+    },
+    {
+        "id": "7141",
+        "name": "Black Cat",
+        "rank": "zz"
+    },
+    {
+        "id": "7142",
+        "name": "Shikkokumaru",
+        "rank": "zz"
+    },
+    {
+        "id": "7144",
+        "name": "Ultraman Belial Atrocious",
+        "tribe": "eerie",
+        "rank": "zz"
+    },
+    {
+        "id": "8001",
+        "name": "Heheheel",
+        "rank": "d"
+    },
+    {
+        "id": "8002",
+        "name": "Croonger",
+        "rank": "c"
+    },
+    {
+        "id": "8003",
+        "name": "Urnaconda",
+        "rank": "c"
+    },
+    {
+        "id": "8004",
+        "name": "Noko",
+        "rank": "e"
+    },
+    {
+        "id": "8005",
+        "name": "Pandanoko",
+        "rank": "a"
+    },
+    {
+        "id": "8006",
+        "name": "Bloominoko",
+        "rank": "a"
+    },
+    {
+        "id": "8007",
+        "name": "Draggie",
+        "rank": "d"
+    },
+    {
+        "id": "8008",
+        "name": "Rageon",
+        "rank": "b"
+    },
+    {
+        "id": "8009",
+        "name": "Tunatic",
+        "rank": "a"
+    },
+    {
+        "id": "8010",
+        "name": "Spenp",
+        "rank": "c"
+    },
+    {
+        "id": "8011",
+        "name": "Almi",
+        "rank": "b"
+    },
+    {
+        "id": "8012",
+        "name": "Babblong",
+        "rank": "c"
+    },
+    {
+        "id": "8013",
+        "name": "Bananose",
+        "rank": "b"
+    },
+    {
+        "id": "8014",
+        "name": "Copperled",
+        "rank": "b"
+    },
+    {
+        "id": "8015",
+        "name": "Slitheref",
+        "rank": "a"
+    },
+    {
+        "id": "8016",
+        "name": "Cynake",
+        "rank": "b"
+    },
+    {
+        "id": "8017",
+        "name": "Venoct",
+        "rank": "s"
+    },
+    {
+        "id": "8018",
+        "name": "Shadow Venoct",
+        "rank": "s"
+    },
+    {
+        "id": "8019",
+        "name": "Flushback",
+        "rank": "d"
+    },
+    {
+        "id": "8020",
+        "name": "Lady Longnek",
+        "rank": "c"
+    },
+    {
+        "id": "8021",
+        "name": "Robonoko",
+        "rank": "b"
+    },
+    {
+        "id": "8022",
+        "name": "Daiz",
+        "rank": "c"
+    },
+    {
+        "id": "8023",
+        "name": "SV Snaggerjag",
+        "rank": "b"
+    },
+    {
+        "id": "8024",
+        "name": "SV Snaggerjag S",
+        "rank": "s"
+    },
+    {
+        "id": "8025",
+        "name": "Mermaidyn",
+        "rank": "d"
+    },
+    {
+        "id": "8026",
+        "name": "Mermadonna",
+        "rank": "s"
+    },
+    {
+        "id": "8027",
+        "name": "Mermother",
+        "rank": "s"
+    },
+    {
+        "id": "8028",
+        "name": "Slurpent",
+        "rank": "s"
+    },
+    {
+        "id": "8029",
+        "name": "Venoct Zhou Yu",
+        "rank": "s"
+    },
+    {
+        "id": "8030",
+        "name": "Tsuchinoko Ryu Zen",
+        "rank": "e"
+    },
+    {
+        "id": "8031",
+        "name": "Nagabana Iseki",
+        "rank": "c"
+    },
+    {
+        "id": "8032",
+        "name": "Nagabanana Iseki",
+        "rank": "b"
+    },
+    {
+        "id": "8033",
+        "name": "Confuze",
+        "rank": "b"
+    },
+    {
+        "id": "8034",
+        "name": "Whismellowman",
+        "rank": "ss"
+    },
+    {
+        "id": "8035",
+        "name": "Venoct Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "8036",
+        "name": "Putasockinit",
+        "rank": "e"
+    },
+    {
+        "id": "8037",
+        "name": "Snailspace",
+        "rank": "e"
+    },
+    {
+        "id": "8038",
+        "name": "OMGator",
+        "rank": "c"
+    },
+    {
+        "id": "8039",
+        "name": "Snidewinder",
+        "rank": "b"
+    },
+    {
+        "id": "8040",
+        "name": "Cocobanana",
+        "rank": "a"
+    },
+    {
+        "id": "8041",
+        "name": "T-Wrecks",
+        "rank": "d"
+    },
+    {
+        "id": "8042",
+        "name": "Starry Noko",
+        "rank": "b"
+    },
+    {
+        "id": "8043",
+        "name": "D-Stroy",
+        "rank": "s"
+    },
+    {
+        "id": "8044",
+        "name": "Mython",
+        "rank": "a"
+    },
+    {
+        "id": "8045",
+        "name": "Robodraggie",
+        "rank": "b"
+    },
+    {
+        "id": "8046",
+        "name": "Narwail",
+        "rank": "s"
+    },
+    {
+        "id": "8047",
+        "name": "Azure Dragon",
+        "rank": "s"
+    },
+    {
+        "id": "8048",
+        "name": "Clodzilla",
+        "rank": "s"
+    },
+    {
+        "id": "8049",
+        "name": "Whisper",
+        "rank": "c"
+    },
+    {
+        "id": "8050",
+        "name": "Private Whispocrates",
+        "rank": "c"
+    },
+    {
+        "id": "8051",
+        "name": "Josper",
+        "rank": "a"
+    },
+    {
+        "id": "8052",
+        "name": "Dressed-up Whisper",
+        "rank": "ss"
+    },
+    {
+        "id": "8053",
+        "name": "Dragon Lord",
+        "rank": "s"
+    },
+    {
+        "id": "8054",
+        "name": "Vacuumory",
+        "rank": "a"
+    },
+    {
+        "id": "8055",
+        "name": "Ebisu",
+        "rank": "ss"
+    },
+    {
+        "id": "8056",
+        "name": "Cricky",
+        "rank": "e"
+    },
+    {
+        "id": "8057",
+        "name": "Frogetmenot",
+        "rank": "s"
+    },
+    {
+        "id": "8058",
+        "name": "Whyvern King",
+        "rank": "ss"
+    },
+    {
+        "id": "8059",
+        "name": "Tsuyu Kyubi",
+        "rank": "ss"
+    },
+    {
+        "id": "8060",
+        "name": "Whisper Kongming",
+        "rank": "a"
+    },
+    {
+        "id": "8061",
+        "name": "Yaobikuni Sonshou Kou",
+        "rank": "s"
+    },
+    {
+        "id": "8062",
+        "name": "Chummer",
+        "rank": "c"
+    },
+    {
+        "id": "8063",
+        "name": "Firewig",
+        "rank": "a"
+    },
+    {
+        "id": "8064",
+        "name": "Big Fish",
+        "rank": "s"
+    },
+    {
+        "id": "8065",
+        "name": "Whinona",
+        "rank": "a"
+    },
+    {
+        "id": "8066",
+        "name": "Bitter Batter",
+        "rank": "c"
+    },
+    {
+        "id": "8067",
+        "name": "Takoyakid",
+        "rank": "d"
+    },
+    {
+        "id": "8068",
+        "name": "Takoyaking",
+        "rank": "b"
+    },
+    {
+        "id": "8069",
+        "name": "Indiana Jaws",
+        "rank": "a"
+    },
+    {
+        "id": "8070",
+        "name": "The Woebra",
+        "rank": "ss"
+    },
+    {
+        "id": "8071",
+        "name": "Caleb Stonewall",
+        "rank": "a"
+    },
+    {
+        "id": "8072",
+        "name": "Kakusei Fudou",
+        "rank": "ss"
+    },
+    {
+        "id": "8073",
+        "name": "City Licker",
+        "rank": "ss"
+    },
+    {
+        "id": "8074",
+        "name": "The Boracle",
+        "rank": "s"
+    },
+    {
+        "id": "8075",
+        "name": "Nautaloss",
+        "rank": "d"
+    },
+    {
+        "id": "8076",
+        "name": "Doyagari Tribe Member",
+        "rank": "c"
+    },
+    {
+        "id": "8077",
+        "name": "Doya Osa",
+        "rank": "b"
+    },
+    {
+        "id": "8078",
+        "name": "Fitwit",
+        "rank": "s"
+    },
+    {
+        "id": "8079",
+        "name": "Seiryuu (Shadow)",
+        "rank": "ss"
+    },
+    {
+        "id": "8080",
+        "name": "Draaagin",
+        "rank": "b"
+    },
+    {
+        "id": "8081",
+        "name": "Cindy Jaws",
+        "rank": "a"
+    },
+    {
+        "id": "8082",
+        "name": "Spatto",
+        "rank": "s"
+    },
+    {
+        "id": "8083",
+        "name": "Nezumi Otoko",
+        "rank": "a"
+    },
+    {
+        "id": "8084",
+        "name": "Kakusei Nezumi Otoko",
+        "rank": "ss"
+    },
+    {
+        "id": "8085",
+        "name": "Whis-otoko",
+        "rank": "ss"
+    },
+    {
+        "id": "8086",
+        "name": "Shrook",
+        "rank": "b"
+    },
+    {
+        "id": "8087",
+        "name": "Goku Tsuchinoko",
+        "rank": "sss"
+    },
+    {
+        "id": "8088",
+        "name": "Naga Raja",
+        "rank": "s"
+    },
+    {
+        "id": "8089",
+        "name": "The Millennial, Falgon",
+        "rank": "ss"
+    },
+    {
+        "id": "8090",
+        "name": "Pigsy",
+        "rank": "b"
+    },
+    {
+        "id": "8091",
+        "name": "Indy Jaws Gold",
+        "rank": "s"
+    },
+    {
+        "id": "8092",
+        "name": "Whisper 2040",
+        "rank": "b"
+    },
+    {
+        "id": "8093",
+        "name": "Vascoda Gama",
+        "rank": "s"
+    },
+    {
+        "id": "8094",
+        "name": "Chou Kakusei Fudou",
+        "rank": "sss"
+    },
+    {
+        "id": "8095",
+        "name": "Irewig",
+        "rank": "d"
+    },
+    {
+        "id": "8096",
+        "name": "Indura of Retribution",
+        "rank": "sss"
+    },
+    {
+        "id": "8097",
+        "name": "Chou Kakusei Orochi (Light)",
+        "rank": "sss"
+    },
+    {
+        "id": "8098",
+        "name": "Ikarin",
+        "rank": "b"
+    },
+    {
+        "id": "8099",
+        "name": "Heath Moore",
+        "rank": "s"
+    },
+    {
+        "id": "8100",
+        "name": "Kenbumajin Genbu",
+        "rank": "sss"
+    },
+    {
+        "id": "8101",
+        "name": "Tsuchinoko (Light)",
+        "rank": "a"
+    },
+    {
+        "id": "8102",
+        "name": "Cloud of Darkness",
+        "rank": "a"
+    },
+    {
+        "id": "8103",
+        "name": "Whisper Santa",
+        "rank": "ss"
+    },
+    {
+        "id": "8104",
+        "name": "Crystal Yamatan",
+        "rank": "sss"
+    },
+    {
+        "id": "8105",
+        "name": "Tsuchinoko (Shadow)",
+        "rank": "s"
+    },
+    {
+        "id": "8106",
+        "name": "Nihon Daihyou Nosaka",
+        "rank": "z"
+    },
+    {
+        "id": "8107",
+        "name": "Genjuu Genbu",
+        "rank": "ss"
+    },
+    {
+        "id": "8108",
+        "name": "Kakusei Shirogane",
+        "rank": "ss"
+    },
+    {
+        "id": "8109",
+        "name": "Shirogane",
+        "rank": "a"
+    },
+    {
+        "id": "8110",
+        "name": "Kachi Kachi Kusarihime",
+        "rank": "sss"
+    },
+    {
+        "id": "8111",
+        "name": "Oragon",
+        "rank": "b"
+    },
+    {
+        "id": "8112",
+        "name": "Kakusei Oragon",
+        "rank": "a"
+    },
+    {
+        "id": "8113",
+        "name": "Majuu Gabras",
+        "rank": "sss"
+    },
+    {
+        "id": "8114",
+        "name": "Fishpicable",
+        "rank": "d"
+    },
+    {
+        "id": "8115",
+        "name": "Puni Nandaryuuou",
+        "rank": "z"
+    },
+    {
+        "id": "8116",
+        "name": "Tsukimi Orochi",
+        "rank": "sss"
+    },
+    {
+        "id": "8117",
+        "name": "Kakusei Izanami",
+        "rank": "ss"
+    },
+    {
+        "id": "8118",
+        "name": "Horror Orochi",
+        "rank": "sss"
+    },
+    {
+        "id": "8119",
+        "name": "8 Toushin Hallowhis",
+        "rank": "ss"
+    },
+    {
+        "id": "8120",
+        "name": "Hallowhis",
+        "rank": "a"
+    },
+    {
+        "id": "8121",
+        "name": "Kuja",
+        "rank": "sss"
+    },
+    {
+        "id": "8122",
+        "name": "Vaan",
+        "rank": "s"
+    },
+    {
+        "id": "8123",
+        "name": "Shinken Kakusei Juushinka Orochi",
+        "rank": "sss"
+    },
+    {
+        "id": "8124",
+        "name": "Snippity Cricket",
+        "rank": "a"
+    },
+    {
+        "id": "8125",
+        "name": "Medusa",
+        "rank": "s"
+    },
+    {
+        "id": "8126",
+        "name": "Hoshikage Orochi",
+        "rank": "sss"
+    },
+    {
+        "id": "8127",
+        "name": "NyaKB92",
+        "rank": "z"
+    },
+    {
+        "id": "8128",
+        "name": "Chou Kakusei Whisper",
+        "rank": "sss"
+    },
+    {
+        "id": "8129",
+        "name": "Meikyoushisui no Gunshin Genbu",
+        "rank": "sss"
+    },
+    {
+        "id": "8130",
+        "name": "Sky Snaker",
+        "rank": "z"
+    },
+    {
+        "id": "8131",
+        "name": "Kamen Rider Faiz",
+        "rank": "s"
+    },
+    {
+        "id": "8132",
+        "name": "Yamatan Shikoutei",
+        "rank": "ss"
+    },
+    {
+        "id": "8133",
+        "name": "Zorozoro Droid",
+        "rank": "ss"
+    },
+    {
+        "id": "8134",
+        "name": "Doleru",
+        "rank": "sss"
+    },
+    {
+        "id": "8135",
+        "name": "Hojiro Sameki",
+        "rank": "ss"
+    },
+    {
+        "id": "8136",
+        "name": "Orochi Santa",
+        "rank": "z"
+    },
+    {
+        "id": "8137",
+        "name": "Rigel HG",
+        "rank": "sss"
+    },
+    {
+        "id": "8138",
+        "name": "Zeldris",
+        "rank": "zz"
+    },
+    {
+        "id": "8139",
+        "name": "Rokuro Rocks",
+        "rank": "z"
+    },
+    {
+        "id": "8140",
+        "name": "Ningyo Lady",
+        "rank": "z"
+    },
+    {
+        "id": "8141",
+        "name": "Gorochi Shuu",
+        "rank": "zz"
+    },
+    {
+        "id": "8142",
+        "name": "Tokiya Mikagami",
+        "rank": "sss"
+    },
+    {
+        "id": "8143",
+        "name": "Daiou Gun D-Rex",
+        "rank": "sss"
+    },
+    {
+        "id": "8144",
+        "name": "Ouma Nandaryuu",
+        "rank": "zz"
+    },
+    {
+        "id": "9001",
+        "name": "Unfairy",
+        "rank": "s"
+    },
+    {
+        "id": "9002",
+        "name": "Unkaind",
+        "rank": "s"
+    },
+    {
+        "id": "9003",
+        "name": "Untidy",
+        "rank": "s"
+    },
+    {
+        "id": "9004",
+        "name": "Unpleasant",
+        "rank": "s"
+    },
+    {
+        "id": "9005",
+        "name": "Unkeen",
+        "rank": "s"
+    },
+    {
+        "id": "9006",
+        "name": "Shamasol",
+        "rank": "d"
+    },
+    {
+        "id": "9007",
+        "name": "Grublappa",
+        "rank": "c"
+    },
+    {
+        "id": "9008",
+        "name": "Gnomine",
+        "rank": "c"
+    },
+    {
+        "id": "9009",
+        "name": "Feargus",
+        "rank": "d"
+    },
+    {
+        "id": "9010",
+        "name": "Scaremaiden",
+        "rank": "c"
+    },
+    {
+        "id": "9011",
+        "name": "Defectabull",
+        "rank": "c"
+    },
+    {
+        "id": "9012",
+        "name": "Badsmella",
+        "rank": "a"
+    },
+    {
+        "id": "9013",
+        "name": "Mad Kappa",
+        "rank": "a"
+    },
+    {
+        "id": "9014",
+        "name": "Madmunch",
+        "rank": "b"
+    },
+    {
+        "id": "9015",
+        "name": "Wrongnek",
+        "rank": "b"
+    },
+    {
+        "id": "9016",
+        "name": "Oniou Rasen",
+        "rank": "ss"
+    },
+    {
+        "id": "9017",
+        "name": "Onimaro Leader",
+        "rank": "s"
+    },
+    {
+        "id": "9018",
+        "name": "Onimaro (One Eye)",
+        "rank": "b"
+    },
+    {
+        "id": "9019",
+        "name": "Onimaro (Two Eyes)",
+        "rank": "b"
+    },
+    {
+        "id": "9020",
+        "name": "Onimaro (Three Eyes)",
+        "rank": "b"
+    },
+    {
+        "id": "9021",
+        "name": "Overseer",
+        "rank": "sss"
+    },
+    {
+        "id": "9022",
+        "name": "Haten Soranaki",
+        "rank": "sss"
+    },
+    {
+        "id": "9023",
+        "name": "Maten Soranaki",
+        "rank": "z"
+    },
+    {
+        "id": "9024",
+        "name": "Bousou Maten Soranaki",
+        "rank": "zz"
+    },
+    {
+        "id": "9301",
+        "name": "Lord Enma",
+        "rank": "s"
+    },
+    {
+        "id": "9302",
+        "name": "Sighborg Y",
+        "rank": "b"
+    },
+    {
+        "id": "9303",
+        "name": "Android Yamada S",
+        "rank": "s"
+    },
+    {
+        "id": "9304",
+        "name": "Lord Enma Awoken",
+        "rank": "ss"
+    },
+    {
+        "id": "9305",
+        "name": "Enma the Ancient",
+        "rank": "ss"
+    },
+    {
+        "id": "9306",
+        "name": "Solar Enma",
+        "rank": "sss"
+    },
+    {
+        "id": "9307",
+        "name": "Lord Enma Blade",
+        "rank": "ss"
+    },
+    {
+        "id": "9308",
+        "name": "Umbral Enma",
+        "rank": "sss"
+    },
+    {
+        "id": "9309",
+        "name": "Infinite Enma",
+        "rank": "sss"
+    },
+    {
+        "id": "9310",
+        "name": "Gus Martin",
+        "rank": "b"
+    },
+    {
+        "id": "9311",
+        "name": "Fudou Myouou",
+        "rank": "sss"
+    },
+    {
+        "id": "9312",
+        "name": "Lord Ananta",
+        "rank": "ss"
+    },
+    {
+        "id": "9313",
+        "name": "Enma",
+        "rank": "ss"
+    },
+    {
+        "id": "9314",
+        "name": "Yami Enma",
+        "rank": "sss"
+    },
+    {
+        "id": "9315",
+        "name": "Enma Neko'ou Matatabi",
+        "rank": "sss"
+    },
+    {
+        "id": "9316",
+        "name": "Enma Meiou Maka",
+        "rank": "sss"
+    },
+    {
+        "id": "9317",
+        "name": "Fudou Myouou Ja",
+        "rank": "sss"
+    },
+    {
+        "id": "9318",
+        "name": "Enma Ryuuou Mizuchi",
+        "rank": "sss"
+    },
+    {
+        "id": "9319",
+        "name": "Enma Raou Tekkaku",
+        "rank": "sss"
+    },
+    {
+        "id": "9320",
+        "name": "Rinne",
+        "rank": "z"
+    },
+    {
+        "id": "9321",
+        "name": "Fudou Myouou Boy",
+        "rank": "sss"
+    },
+    {
+        "id": "9322",
+        "name": "Maou Shien",
+        "rank": "sss"
+    },
+    {
+        "id": "9323",
+        "name": "Shien",
+        "rank": "sss"
+    },
+    {
+        "id": "9324",
+        "name": "Yasha Enma",
+        "rank": "z"
+    },
+    {
+        "id": "9325",
+        "name": "Fudou Myouou Ten",
+        "rank": "z"
+    },
+    {
+        "id": "9326",
+        "name": "Fudou Myouou-kai",
+        "rank": "z"
+    },
+    {
+        "id": "9327",
+        "name": "Ha'ou Rinne",
+        "rank": "z"
+    },
+    {
+        "id": "9328",
+        "name": "Jaaku no Gokuin Juushinka Rinne",
+        "rank": "z"
+    },
+    {
+        "id": "9329",
+        "name": "Bousou Enma",
+        "rank": "zz"
+    },
+    {
+        "id": "9330",
+        "name": "Youma no Daiou Kaira",
+        "rank": "z"
+    },
+    {
+        "id": "9331",
+        "name": "Enma Daiou Gouen",
+        "rank": "sss"
+    },
+    {
+        "id": "9332",
+        "name": "Kakusei Android Yamada",
+        "rank": "ss"
+    },
+    {
+        "id": "9333",
+        "name": "Bousou Kaira",
+        "rank": "zz"
+    },
+    {
+        "id": "9334",
+        "name": "Bousou Fudou Myouou",
+        "rank": "zz"
+    },
+    {
+        "id": "9335",
+        "name": "Haou Shien",
+        "rank": "z"
+    },
+    {
+        "id": "9336",
+        "name": "Bousou Norukasoruka",
+        "rank": "zz"
+    },
+    {
+        "id": "9337",
+        "name": "Shishi Enma",
+        "rank": "sss"
+    },
+    {
+        "id": "9338",
+        "name": "Tenjishi Enma",
+        "rank": "z"
+    },
+    {
+        "id": "9339",
+        "name": "Hakuja Kaira",
+        "rank": "sss"
+    },
+    {
+        "id": "9340",
+        "name": "Reisenja Kaira",
+        "rank": "z"
+    },
+    {
+        "id": "9341",
+        "name": "Bousou Rinne",
+        "rank": "zz"
+    },
+    {
+        "id": "9342",
+        "name": "Enmadai Rijichou",
+        "rank": "zz"
+    },
+    {
+        "id": "9343",
+        "name": "Enma Daiou (Y-Gakuen)",
+        "rank": "z"
+    },
+    {
+        "id": "9344",
+        "name": "Fudo Riser",
+        "rank": "zz"
+    },
+    {
+        "id": "9501",
+        "name": "Slimamander",
+        "rank": "n/a"
+    },
+    {
+        "id": "9502",
+        "name": "SV Snaggerjag",
+        "rank": "n/a"
+    },
+    {
+        "id": "9503",
+        "name": "Sproink",
+        "rank": "n/a"
+    },
+    {
+        "id": "9504",
+        "name": "Massiface",
+        "rank": "n/a"
+    },
+    {
+        "id": "9505",
+        "name": "Dr. Maddiman",
+        "rank": "n/a"
+    },
+    {
+        "id": "9506",
+        "name": "Phantasmurai",
+        "rank": "n/a"
+    },
+    {
+        "id": "9507",
+        "name": "Eyeclone",
+        "rank": "n/a"
+    },
+    {
+        "id": "9508",
+        "name": "McKraken",
+        "rank": "n/a"
+    },
+    {
+        "id": "9509",
+        "name": "Goldy Bones",
+        "rank": "n/a"
+    },
+    {
+        "id": "9510",
+        "name": "Zazel",
+        "rank": "n/a"
+    },
+    {
+        "id": "9511",
+        "name": "Zazelmare",
+        "rank": "n/a"
+    },
+    {
+        "id": "9512",
+        "name": "Lord Enma",
+        "rank": "n/a"
+    },
+    {
+        "id": "9513",
+        "name": "Duke Drooly",
+        "rank": "n/a"
+    },
+    {
+        "id": "9514",
+        "name": "Alicktokat",
+        "rank": "n/a"
+    },
+    {
+        "id": "9515",
+        "name": "Eyedra",
+        "rank": "n/a"
+    },
+    {
+        "id": "9516",
+        "name": "Hoggles",
+        "rank": "n/a"
+    },
+    {
+        "id": "9517",
+        "name": "Styx Mk.VI",
+        "rank": "n/a"
+    },
+    {
+        "id": "9518",
+        "name": "Clipso",
+        "rank": "n/a"
+    },
+    {
+        "id": "9519",
+        "name": "Dr. Nogut",
+        "rank": "n/a"
+    },
+    {
+        "id": "9520",
+        "name": "Spooklunk",
+        "rank": "n/a"
+    },
+    {
+        "id": "9521",
+        "name": "Squisker",
+        "rank": "n/a"
+    },
+    {
+        "id": "9522",
+        "name": "Wobblewok",
+        "rank": "n/a"
+    },
+    {
+        "id": "9523",
+        "name": "Cap'n Crash",
+        "rank": "n/a"
+    },
+    {
+        "id": "9524",
+        "name": "Meganyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9525",
+        "name": "Darknyan Sousou",
+        "rank": "n/a"
+    },
+    {
+        "id": "9526",
+        "name": "Toadal Dude",
+        "rank": "n/a"
+    },
+    {
+        "id": "9527",
+        "name": "Arachnus",
+        "rank": "n/a"
+    },
+    {
+        "id": "9528",
+        "name": "Kin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9529",
+        "name": "Gin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9530",
+        "name": "Dame Dedtime",
+        "rank": "n/a"
+    },
+    {
+        "id": "9531",
+        "name": "Cap'n Rex",
+        "rank": "n/a"
+    },
+    {
+        "id": "9532",
+        "name": "Flippa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9533",
+        "name": "Floppa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9534",
+        "name": "Dame Dredful",
+        "rank": "n/a"
+    },
+    {
+        "id": "9535",
+        "name": "Kat Kraydel",
+        "rank": "n/a"
+    },
+    {
+        "id": "9536",
+        "name": "Junkernaut",
+        "rank": "n/a"
+    },
+    {
+        "id": "9537",
+        "name": "Supermanager",
+        "rank": "n/a"
+    },
+    {
+        "id": "9538",
+        "name": "Hinozall",
+        "rank": "n/a"
+    },
+    {
+        "id": "9539",
+        "name": "Yopple-Bot",
+        "rank": "n/a"
+    },
+    {
+        "id": "9540",
+        "name": "Hakumen no Mono",
+        "rank": "n/a"
+    },
+    {
+        "id": "9541",
+        "name": "Narwail",
+        "rank": "n/a"
+    },
+    {
+        "id": "9542",
+        "name": "Whaleman",
+        "rank": "n/a"
+    },
+    {
+        "id": "9543",
+        "name": "Agent X",
+        "rank": "n/a"
+    },
+    {
+        "id": "9544",
+        "name": "Whismellowman",
+        "rank": "n/a"
+    },
+    {
+        "id": "9545",
+        "name": "Prancy-nyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9546",
+        "name": "Kuroi Jibanyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9547",
+        "name": "Kuroi Komasan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9548",
+        "name": "Kuroi Yo-kai Watch",
+        "rank": "n/a"
+    },
+    {
+        "id": "9549",
+        "name": "Pompompurin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9550",
+        "name": "My Melody",
+        "rank": "n/a"
+    },
+    {
+        "id": "9551",
+        "name": "Gudetama S",
+        "rank": "n/a"
+    },
+    {
+        "id": "9552",
+        "name": "Tsuyu Kyubi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9553",
+        "name": "Kabuking",
+        "rank": "n/a"
+    },
+    {
+        "id": "9554",
+        "name": "Big Fish",
+        "rank": "n/a"
+    },
+    {
+        "id": "9555",
+        "name": "KJ",
+        "rank": "n/a"
+    },
+    {
+        "id": "9556",
+        "name": "The Ghoulfather",
+        "rank": "n/a"
+    },
+    {
+        "id": "9557",
+        "name": "Don Spiracy",
+        "rank": "n/a"
+    },
+    {
+        "id": "9558",
+        "name": "Tyson Granger",
+        "rank": "n/a"
+    },
+    {
+        "id": "9559",
+        "name": "Byron Love",
+        "rank": "n/a"
+    },
+    {
+        "id": "9560",
+        "name": "Caleb Stonewall",
+        "rank": "n/a"
+    },
+    {
+        "id": "9561",
+        "name": "Gazelle",
+        "rank": "n/a"
+    },
+    {
+        "id": "9562",
+        "name": "Torch",
+        "rank": "n/a"
+    },
+    {
+        "id": "9563",
+        "name": "Xene",
+        "rank": "n/a"
+    },
+    {
+        "id": "9564",
+        "name": "Aladdin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9565",
+        "name": "Morgiana",
+        "rank": "n/a"
+    },
+    {
+        "id": "9566",
+        "name": "Ali Baba",
+        "rank": "n/a"
+    },
+    {
+        "id": "9567",
+        "name": "Doya Osa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9568",
+        "name": "Tanto",
+        "rank": "n/a"
+    },
+    {
+        "id": "9569",
+        "name": "Dandory",
+        "rank": "n/a"
+    },
+    {
+        "id": "9570",
+        "name": "Komajiro Santa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9571",
+        "name": "Koma Santa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9572",
+        "name": "Jibanyan Santa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9573",
+        "name": "Kirakoma Santa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9574",
+        "name": "Oniou Rasen",
+        "rank": "n/a"
+    },
+    {
+        "id": "9575",
+        "name": "Spatto",
+        "rank": "n/a"
+    },
+    {
+        "id": "9576",
+        "name": "Toranka",
+        "rank": "n/a"
+    },
+    {
+        "id": "9577",
+        "name": "Catleen",
+        "rank": "n/a"
+    },
+    {
+        "id": "9578",
+        "name": "Starry Noko",
+        "rank": "n/a"
+    },
+    {
+        "id": "9579",
+        "name": "Bloominoko",
+        "rank": "n/a"
+    },
+    {
+        "id": "9580",
+        "name": "Pandanoko",
+        "rank": "n/a"
+    },
+    {
+        "id": "9581",
+        "name": "Eyephoon",
+        "rank": "n/a"
+    },
+    {
+        "id": "9582",
+        "name": "Enma Neko'ou Matatabi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9583",
+        "name": "B\u00e9arnaise",
+        "rank": "n/a"
+    },
+    {
+        "id": "9584",
+        "name": "Velout\u00e9",
+        "rank": "n/a"
+    },
+    {
+        "id": "9585",
+        "name": "Sultan Vinegar",
+        "rank": "n/a"
+    },
+    {
+        "id": "9586",
+        "name": "Shogunyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9587",
+        "name": "Toadal Demon",
+        "rank": "n/a"
+    },
+    {
+        "id": "9588",
+        "name": "Arachnevil",
+        "rank": "n/a"
+    },
+    {
+        "id": "9589",
+        "name": "Toadal Dude Awoken",
+        "rank": "n/a"
+    },
+    {
+        "id": "9590",
+        "name": "Arachnus Awoken",
+        "rank": "n/a"
+    },
+    {
+        "id": "9591",
+        "name": "Spoilerina",
+        "rank": "n/a"
+    },
+    {
+        "id": "9592",
+        "name": "Chocolina",
+        "rank": "n/a"
+    },
+    {
+        "id": "9593",
+        "name": "Gabby",
+        "rank": "n/a"
+    },
+    {
+        "id": "9594",
+        "name": "Torneyedo",
+        "rank": "n/a"
+    },
+    {
+        "id": "9595",
+        "name": "Crystal Netaballerina",
+        "rank": "n/a"
+    },
+    {
+        "id": "9596",
+        "name": "Sandra Fischer",
+        "rank": "n/a"
+    },
+    {
+        "id": "9597",
+        "name": "Valentin Eisner",
+        "rank": "n/a"
+    },
+    {
+        "id": "9598",
+        "name": "Kakusei Asuto",
+        "rank": "n/a"
+    },
+    {
+        "id": "9599",
+        "name": "Kyubi (Light)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9600",
+        "name": "Fukurou",
+        "rank": "n/a"
+    },
+    {
+        "id": "9601",
+        "name": "Fudou Myouou Ja",
+        "rank": "n/a"
+    },
+    {
+        "id": "9602",
+        "name": "Hawk",
+        "rank": "n/a"
+    },
+    {
+        "id": "9603",
+        "name": "Ban",
+        "rank": "n/a"
+    },
+    {
+        "id": "9604",
+        "name": "Bellion",
+        "rank": "n/a"
+    },
+    {
+        "id": "9605",
+        "name": "Indura of Fate",
+        "rank": "n/a"
+    },
+    {
+        "id": "9606",
+        "name": "Goku Tsuchinoko",
+        "rank": "n/a"
+    },
+    {
+        "id": "9607",
+        "name": "Goku Fubuki-hime",
+        "rank": "n/a"
+    },
+    {
+        "id": "9608",
+        "name": "Robokoma",
+        "rank": "n/a"
+    },
+    {
+        "id": "9609",
+        "name": "Komashura",
+        "rank": "n/a"
+    },
+    {
+        "id": "9610",
+        "name": "Koma Star",
+        "rank": "n/a"
+    },
+    {
+        "id": "9611",
+        "name": "Crystal Shurakoma",
+        "rank": "n/a"
+    },
+    {
+        "id": "9612",
+        "name": "Heath Moore",
+        "rank": "n/a"
+    },
+    {
+        "id": "9613",
+        "name": "Evan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9614",
+        "name": "Hi no Shin (Shadow)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9615",
+        "name": "Genjuu Suzaku",
+        "rank": "n/a"
+    },
+    {
+        "id": "9616",
+        "name": "Kenbumajin Genbu",
+        "rank": "n/a"
+    },
+    {
+        "id": "9617",
+        "name": "Jorogumo (Shadow)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9618",
+        "name": "Lord Ananta",
+        "rank": "n/a"
+    },
+    {
+        "id": "9619",
+        "name": "Douketsu",
+        "rank": "n/a"
+    },
+    {
+        "id": "9620",
+        "name": "Kenbumajin Suzaku",
+        "rank": "n/a"
+    },
+    {
+        "id": "9621",
+        "name": "Golbez",
+        "rank": "n/a"
+    },
+    {
+        "id": "9622",
+        "name": "Terra",
+        "rank": "n/a"
+    },
+    {
+        "id": "9623",
+        "name": "Jecht",
+        "rank": "n/a"
+    },
+    {
+        "id": "9624",
+        "name": "Whisper Santa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9625",
+        "name": "Fubuki-hime Santa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9626",
+        "name": "Fuyunyan Santa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9627",
+        "name": "Yamambaa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9628",
+        "name": "Tamamo",
+        "rank": "n/a"
+    },
+    {
+        "id": "9629",
+        "name": "Shien",
+        "rank": "n/a"
+    },
+    {
+        "id": "9630",
+        "name": "Overseer",
+        "rank": "n/a"
+    },
+    {
+        "id": "9631",
+        "name": "Tsuchinoko (Shadow)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9632",
+        "name": "Komajiro (Shadow)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9633",
+        "name": "Fudou Myouou Ten",
+        "rank": "n/a"
+    },
+    {
+        "id": "9634",
+        "name": "Poofessor",
+        "rank": "n/a"
+    },
+    {
+        "id": "9635",
+        "name": "Teducator",
+        "rank": "n/a"
+    },
+    {
+        "id": "9636",
+        "name": "Dark Master",
+        "rank": "n/a"
+    },
+    {
+        "id": "9637",
+        "name": "Crystal Unchikuma",
+        "rank": "n/a"
+    },
+    {
+        "id": "9638",
+        "name": "Puni Puni Koubachou",
+        "rank": "n/a"
+    },
+    {
+        "id": "9639",
+        "name": "Puni Kyubi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9640",
+        "name": "Ogami Kan Katai",
+        "rank": "n/a"
+    },
+    {
+        "id": "9641",
+        "name": "Nihon Daihyou Endou",
+        "rank": "n/a"
+    },
+    {
+        "id": "9642",
+        "name": "Nihon Daihyou Haizaki",
+        "rank": "n/a"
+    },
+    {
+        "id": "9643",
+        "name": "Nihon Daihyou Nosaka",
+        "rank": "n/a"
+    },
+    {
+        "id": "9644",
+        "name": "Kenbumajin Byakko",
+        "rank": "n/a"
+    },
+    {
+        "id": "9645",
+        "name": "Haten Soranaki",
+        "rank": "n/a"
+    },
+    {
+        "id": "9646",
+        "name": "Shuka",
+        "rank": "n/a"
+    },
+    {
+        "id": "9647",
+        "name": "Yami Enma",
+        "rank": "n/a"
+    },
+    {
+        "id": "9648",
+        "name": "Kakusei Masaru Saiga",
+        "rank": "n/a"
+    },
+    {
+        "id": "9649",
+        "name": "Kakusei Aladdin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9650",
+        "name": "Makoto Kyogoku",
+        "rank": "n/a"
+    },
+    {
+        "id": "9651",
+        "name": "Puni Kuro Oni",
+        "rank": "n/a"
+    },
+    {
+        "id": "9652",
+        "name": "Kachi Kachi Senki",
+        "rank": "n/a"
+    },
+    {
+        "id": "9653",
+        "name": "Doyagari Komasan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9654",
+        "name": "Hans Galore",
+        "rank": "n/a"
+    },
+    {
+        "id": "9655",
+        "name": "Onsen Komajiro",
+        "rank": "n/a"
+    },
+    {
+        "id": "9656",
+        "name": "Onsen Komasan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9657",
+        "name": "Kiki",
+        "rank": "n/a"
+    },
+    {
+        "id": "9658",
+        "name": "Lala",
+        "rank": "n/a"
+    },
+    {
+        "id": "9659",
+        "name": "Kiki & Lala Kirakoma",
+        "rank": "n/a"
+    },
+    {
+        "id": "9660",
+        "name": "Ha'ou Rinne",
+        "rank": "n/a"
+    },
+    {
+        "id": "9661",
+        "name": "Puni Kyubi Jun Iku",
+        "rank": "n/a"
+    },
+    {
+        "id": "9662",
+        "name": "Daigunshi Katai",
+        "rank": "n/a"
+    },
+    {
+        "id": "9663",
+        "name": "Solomon",
+        "rank": "n/a"
+    },
+    {
+        "id": "9664",
+        "name": "Arthur",
+        "rank": "n/a"
+    },
+    {
+        "id": "9665",
+        "name": "Lucifer (Transcension)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9666",
+        "name": "Kuroi Kyubi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9667",
+        "name": "Kuroi Bushinyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9668",
+        "name": "Black Dianyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9669",
+        "name": "Yoki",
+        "rank": "n/a"
+    },
+    {
+        "id": "9670",
+        "name": "Haru (Dark Knight)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9671",
+        "name": "Majuu Gabras",
+        "rank": "n/a"
+    },
+    {
+        "id": "9672",
+        "name": "Gargaros",
+        "rank": "n/a"
+    },
+    {
+        "id": "9673",
+        "name": "Puni Tsubaki-hime",
+        "rank": "n/a"
+    },
+    {
+        "id": "9674",
+        "name": "Puni Nandaryuuou",
+        "rank": "n/a"
+    },
+    {
+        "id": "9675",
+        "name": "Kachi Kachi Samurai",
+        "rank": "n/a"
+    },
+    {
+        "id": "9676",
+        "name": "Kachi Kachi Kusarihime",
+        "rank": "n/a"
+    },
+    {
+        "id": "9677",
+        "name": "Kachi Kachi Kamen",
+        "rank": "n/a"
+    },
+    {
+        "id": "9678",
+        "name": "Horror Orochi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9679",
+        "name": "Majokko Fubuki-hime",
+        "rank": "n/a"
+    },
+    {
+        "id": "9680",
+        "name": "Hallowhis",
+        "rank": "n/a"
+    },
+    {
+        "id": "9681",
+        "name": "Y'shtola",
+        "rank": "n/a"
+    },
+    {
+        "id": "9682",
+        "name": "Kuja",
+        "rank": "n/a"
+    },
+    {
+        "id": "9683",
+        "name": "Squall",
+        "rank": "n/a"
+    },
+    {
+        "id": "9684",
+        "name": "Senjuneko Juushinka Jibanyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9685",
+        "name": "Manmaru Tsukiyo Juushinka Komasan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9686",
+        "name": "Shinken Kakusei Juushinka Orochi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9687",
+        "name": "Goku Orochi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9688",
+        "name": "Rinne",
+        "rank": "n/a"
+    },
+    {
+        "id": "9689",
+        "name": "Ja-shin Kachi Kachi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9690",
+        "name": "Koma Kaachan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9691",
+        "name": "Meteogon",
+        "rank": "n/a"
+    },
+    {
+        "id": "9692",
+        "name": "Medusa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9693",
+        "name": "Ryuusuke Kyuubi",
+        "rank": "n/a"
+    },
+    {
+        "id": "9694",
+        "name": "Bakera",
+        "rank": "n/a"
+    },
+    {
+        "id": "9695",
+        "name": "Shinmagunjin Fukurou",
+        "rank": "n/a"
+    },
+    {
+        "id": "9696",
+        "name": "Maou Shien",
+        "rank": "n/a"
+    },
+    {
+        "id": "9697",
+        "name": "Jibanyan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9698",
+        "name": "Jibanyan (Shadow)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9699",
+        "name": "Gusto",
+        "rank": "n/a"
+    },
+    {
+        "id": "9700",
+        "name": "Corptain",
+        "rank": "n/a"
+    },
+    {
+        "id": "9701",
+        "name": "Dr. Nocturne",
+        "rank": "n/a"
+    },
+    {
+        "id": "9702",
+        "name": "Hans Full",
+        "rank": "n/a"
+    },
+    {
+        "id": "9703",
+        "name": "Big Black",
+        "rank": "n/a"
+    },
+    {
+        "id": "9704",
+        "name": "Fuujin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9705",
+        "name": "Raijin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9706",
+        "name": "Fuu-kun",
+        "rank": "n/a"
+    },
+    {
+        "id": "9707",
+        "name": "Rai-chan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9708",
+        "name": "Dark Assassin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9709",
+        "name": "Moguramos",
+        "rank": "n/a"
+    },
+    {
+        "id": "9710",
+        "name": "Sinbad",
+        "rank": "n/a"
+    },
+    {
+        "id": "9711",
+        "name": "Knight",
+        "rank": "n/a"
+    },
+    {
+        "id": "9712",
+        "name": "Masumi Sera",
+        "rank": "n/a"
+    },
+    {
+        "id": "9713",
+        "name": "Majigireeno",
+        "rank": "n/a"
+    },
+    {
+        "id": "9714",
+        "name": "Jikannaidaa",
+        "rank": "n/a"
+    },
+    {
+        "id": "9715",
+        "name": "Partykoumori",
+        "rank": "n/a"
+    },
+    {
+        "id": "9716",
+        "name": "Hanasakamaru",
+        "rank": "n/a"
+    },
+    {
+        "id": "9717",
+        "name": "Mamorino Hanako",
+        "rank": "n/a"
+    },
+    {
+        "id": "9718",
+        "name": "Genjuu Genbu",
+        "rank": "n/a"
+    },
+    {
+        "id": "9719",
+        "name": "Genjuu Byakko",
+        "rank": "n/a"
+    },
+    {
+        "id": "9720",
+        "name": "Kenbumajin Ashura",
+        "rank": "n/a"
+    },
+    {
+        "id": "9721",
+        "name": "Jimi Nadine",
+        "rank": "n/a"
+    },
+    {
+        "id": "9722",
+        "name": "Medatsukotosuki",
+        "rank": "n/a"
+    },
+    {
+        "id": "9723",
+        "name": "The Viper",
+        "rank": "n/a"
+    },
+    {
+        "id": "9724",
+        "name": "Kamen Rider Ex-Aid",
+        "rank": "n/a"
+    },
+    {
+        "id": "9725",
+        "name": "Kamen Rider Black",
+        "rank": "n/a"
+    },
+    {
+        "id": "9726",
+        "name": "Kamen Rider Drive Type Dead Heat",
+        "rank": "n/a"
+    },
+    {
+        "id": "9727",
+        "name": "Pintocool",
+        "rank": "n/a"
+    },
+    {
+        "id": "9728",
+        "name": "Reitou Onigiri",
+        "rank": "n/a"
+    },
+    {
+        "id": "9729",
+        "name": "Kilakilion",
+        "rank": "n/a"
+    },
+    {
+        "id": "9730",
+        "name": "Amaokami",
+        "rank": "n/a"
+    },
+    {
+        "id": "9731",
+        "name": "Kappa-chan",
+        "rank": "n/a"
+    },
+    {
+        "id": "9732",
+        "name": "Uoking Dead",
+        "rank": "n/a"
+    },
+    {
+        "id": "9733",
+        "name": "Uoking Dead Final",
+        "rank": "n/a"
+    },
+    {
+        "id": "9734",
+        "name": "Isshougomen",
+        "rank": "n/a"
+    },
+    {
+        "id": "9735",
+        "name": "Nijionna",
+        "rank": "n/a"
+    },
+    {
+        "id": "9736",
+        "name": "Hinohikari",
+        "rank": "n/a"
+    },
+    {
+        "id": "9737",
+        "name": "Bushinyan Future",
+        "rank": "n/a"
+    },
+    {
+        "id": "9738",
+        "name": "Daikaizoku Shurahige",
+        "rank": "n/a"
+    },
+    {
+        "id": "9739",
+        "name": "Ikemengyo",
+        "rank": "n/a"
+    },
+    {
+        "id": "9740",
+        "name": "Zorozoro Droid",
+        "rank": "n/a"
+    },
+    {
+        "id": "9741",
+        "name": "Dober",
+        "rank": "n/a"
+    },
+    {
+        "id": "9742",
+        "name": "Pit Bull",
+        "rank": "n/a"
+    },
+    {
+        "id": "9743",
+        "name": "Bousou Maten Soranaki",
+        "rank": "n/a"
+    },
+    {
+        "id": "9744",
+        "name": "Bousou Nurarihyon",
+        "rank": "n/a"
+    },
+    {
+        "id": "9745",
+        "name": "Bousou Amaterasu",
+        "rank": "n/a"
+    },
+    {
+        "id": "9746",
+        "name": "Bousou Fudou Myouou",
+        "rank": "n/a"
+    },
+    {
+        "id": "9747",
+        "name": "Bousou Kaira",
+        "rank": "n/a"
+    },
+    {
+        "id": "9748",
+        "name": "Bousou Enma",
+        "rank": "n/a"
+    },
+    {
+        "id": "9749",
+        "name": "Bousou Norukasoruka",
+        "rank": "n/a"
+    },
+    {
+        "id": "9750",
+        "name": "Bousou Inchou Kantottsu",
+        "rank": "n/a"
+    },
+    {
+        "id": "9751",
+        "name": "Toma Koutei",
+        "rank": "n/a"
+    },
+    {
+        "id": "9752",
+        "name": "Tokai OnAir Bunkei",
+        "rank": "n/a"
+    },
+    {
+        "id": "9753",
+        "name": "Kami Youma Hikakin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9754",
+        "name": "Alice",
+        "rank": "n/a"
+    },
+    {
+        "id": "9755",
+        "name": "Binah",
+        "rank": "n/a"
+    },
+    {
+        "id": "9756",
+        "name": "Excalibur",
+        "rank": "n/a"
+    },
+    {
+        "id": "9757",
+        "name": "Kakusei Mana",
+        "rank": "n/a"
+    },
+    {
+        "id": "9758",
+        "name": "Chou Kakusei Nostradamus",
+        "rank": "n/a"
+    },
+    {
+        "id": "9759",
+        "name": "Chou Kakusei Gabriel",
+        "rank": "n/a"
+    },
+    {
+        "id": "9760",
+        "name": "Chou Kakusei Arthur",
+        "rank": "n/a"
+    },
+    {
+        "id": "9761",
+        "name": "Doleru",
+        "rank": "n/a"
+    },
+    {
+        "id": "9762",
+        "name": "Poo",
+        "rank": "n/a"
+    },
+    {
+        "id": "9763",
+        "name": "Dober Vader",
+        "rank": "n/a"
+    },
+    {
+        "id": "9764",
+        "name": "DG Trooper",
+        "rank": "n/a"
+    },
+    {
+        "id": "9765",
+        "name": "Elzemekia",
+        "rank": "n/a"
+    },
+    {
+        "id": "9766",
+        "name": "Miilacanth",
+        "rank": "n/a"
+    },
+    {
+        "id": "9767",
+        "name": "Nego",
+        "rank": "n/a"
+    },
+    {
+        "id": "9768",
+        "name": "Bousou Rinne",
+        "rank": "n/a"
+    },
+    {
+        "id": "9769",
+        "name": "Mamemameinu",
+        "rank": "n/a"
+    },
+    {
+        "id": "9770",
+        "name": "Kengo Benimaru (Seiken Version)",
+        "rank": "n/a"
+    },
+    {
+        "id": "9771",
+        "name": "Jigoku Assassin",
+        "rank": "n/a"
+    },
+    {
+        "id": "9772",
+        "name": "Nurari Shishou",
+        "rank": "n/a"
+    }
+]

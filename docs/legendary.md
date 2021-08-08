@@ -3,7 +3,7 @@ layout: page
 title:  "Legendary Yo-kai"
 permalink: /legendary/
 ---
-Legendary Yo-kai can be befriended by befriending 6 Yo-kais. For each legendary Yo-kai there is a page in medallium (at the end) witl 6 seals.
+Legendary Yo-kai can be befriended by befriending 6 Yo-kais. For each legendary Yo-kai there is a page in medallium (at the end) with 6 seals.
 
 List of Legendary Yo-kai
 
